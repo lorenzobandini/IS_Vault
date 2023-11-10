@@ -1,0 +1,3 @@
+Nel 1991, una caserma a Dhahran (Arabia Saudita) venne colpita per un [[Difetto Latente]] nel sistema di guida: 28 soldati americani morti. 
+Il sistema era stato concepito per funzionare ininterrottamente per un massimo di 14h ma i soldati non curanti lo usarono per 100h e finì che si accumularono una serie di errori nel sistema dell'orologio fino al punto da rendere inservibile il sistema di tracciamento dei missili da abbattere.
+Era un problema di scarsa [[Robustezza]]

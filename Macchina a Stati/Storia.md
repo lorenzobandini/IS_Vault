@@ -1,0 +1,1 @@
+Stato in cui riparte il sistema se viene interrotto e poi fatto ripartire

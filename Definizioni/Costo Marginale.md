@@ -1,0 +1,1 @@
+Costo di produzione totale che deriva dalla fabbricazione o dalla produzione di unità 

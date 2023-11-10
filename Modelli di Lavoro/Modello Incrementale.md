@@ -1,0 +1,1 @@
+Si basa sullo sviluppo di software che soddisfi inizialmente i requisiti base per uscire velocemente con qualcosa che svolga almeno la funzione principale per poi iterare nello sviluppo di nuove specifiche.

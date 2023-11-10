@@ -1,0 +1,3 @@
+Il sistema, progettato per l'Ariane 4, tenta di convertire la velocità laterale del missile dal formato a 64 bit al formato a 16 bit. Ma l'Ariane 5 vola molto più velocemente dell'Ariane 4, e il valore della velocità laterale è più elevato di quanto possa essere gestito dalla routine di conversione.
+Si creò quindi un problema di [[Overflow]] che causava lo spegnimento del sistema di guida e il trasferimento del controllo al 2° sistema di guida che però, essendo progettato allo stesso modo, andava in tilt nella medesima maniera.
+Inoltre i test vennero fatti tutti su dati vecchi e ci volle più di un anno e mezzo per identificare la causa dell'incidente

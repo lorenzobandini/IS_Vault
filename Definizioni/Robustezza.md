@@ -1,0 +1,1 @@
+La capacità di mantenere il funzionamento corretto del sistema anche in condizioni particolari o limite. Un sistema robusto è capace di sopportare e resistere ad eventi inaspettati tenendo il sistema in piedi.

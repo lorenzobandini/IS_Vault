@@ -1,0 +1,1 @@
+La capacità di mantenere il funzionamento corretto del sistema in presenza di guasti o errori e di riprendere l'esecuzione nello stesso stato in cui il sistema si era bloccato

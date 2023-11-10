@@ -1,0 +1,1 @@
+Qualsiasi soggetto o gruppo coinvolto in una qualsiasi iniziativa economica, una società o altro progetto, e in generale con interessi legati all’esecuzione o dall’andamento dell'iniziativa stessa.

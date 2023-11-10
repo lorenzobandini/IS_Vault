@@ -1,0 +1,1 @@
+Parte del [[Modello]] che si concentra sul comportamento dinamico di un sistema software o di un componente del sistema.

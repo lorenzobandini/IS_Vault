@@ -1,0 +1,2 @@
+Tipo di programmazione dove vengono accoppiati due programmatori ad un unico terminale.
+Un programmatore chiamato driver scrive il codice mentre il navigatore controlla il lavoro del suo compagno in maniera attiva in modo di avere una doppia scrematura sugli errori.

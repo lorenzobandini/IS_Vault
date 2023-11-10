@@ -1,0 +1,1 @@
+Nel 1998 venne inaugurata e fu un grande successo di ingegneria ed informatica poiché era la prima linea integralmente automatizzata con 8km di tratte percorribili, 7 stazioni, 19 treni e un intervallo di soli 85 secondi tra un treno e l'altro.

@@ -1,0 +1,3 @@
+Classe che non può essere istanziata direttamente e che spesso contiene almeno un metodo astratto, cioè un metodo senza un'implementazione concreta. Le classi astratte sono utilizzate come modelli per altre classi che ereditano da esse e forniscono implementazioni specifiche dei metodi astratti.
+
+Viene indicata con una notazione compatta usando il *Corsivo* oppure una notazione estesa scrivendo { abstract } 

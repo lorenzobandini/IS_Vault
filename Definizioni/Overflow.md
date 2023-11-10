@@ -1,0 +1,1 @@
+Errore che si verifica quando un valore supera il limite di una variabile o di un buffer.

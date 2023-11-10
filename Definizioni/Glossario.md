@@ -1,0 +1,2 @@
+Collezione di definizioni di termini rilevanti in un dominio specifico creato dal team di analisti mentre studia l'ambito.
+Viene arricchito con il proseguimento del progetto ogni volta che si incontrano nuovi termini e può essere riusato in progetti successivi nello stesso dominio.

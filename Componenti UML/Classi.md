@@ -1,0 +1,1 @@
+Descrive un insieme di [[Oggetti]] con caratteristiche simili, sono, cioè, oggetti che hanno lo stesso tipo.

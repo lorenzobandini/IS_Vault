@@ -1,0 +1,1 @@
+Un collegamento nel diagramma degli oggetti è un istanza di un associazione che collega due (o più) [[Oggetti]], non ha un nome ma se utile può indicare i ruoli. Non ha molteplicità ma è sempre 1 a 1 essendo delle istanze. 

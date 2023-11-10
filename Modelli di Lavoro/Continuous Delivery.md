@@ -1,0 +1,1 @@
+Derivante dal modello [[Agile]], il continuous delivery è un processo di sviluppo software che consente di rilasciare nuove versioni del software in produzione in modo continuo e automatico. Si basa su una serie di pratiche e strumenti che automatizzano le fasi di compilazione, test e distribuzione del software.

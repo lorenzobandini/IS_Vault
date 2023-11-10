@@ -1,0 +1,2 @@
+Tratta di un [[Difetto Latente]] di progettazione che causava un'accelerazione inattesa, involontaria e incontrollata del veicolo con la perdita di efficacia della frenata ed ha portato alla morte 89 persone.
+La giuria ed altri esperti ha poi ritenuto il software di Toyota mal progettato e non conforme agli standard del settore con seri problemi a livello di design e software.

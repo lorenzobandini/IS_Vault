@@ -1,0 +1,1 @@
+Nel 1965, la navicella Gemini V con Armstrong e See a bordo, atterra a 80 km dal punto di atterraggio previsto per un errore del programmatore che aveva inserito come velocità della terra 360° in 24 ore invece di 260,98°
