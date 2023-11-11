@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71aee90cf24d947c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diagrammi di Sequenza.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "Diagrammi di Sequenza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md"
+                "file": "Diagrammi di Sequenza.md"
               }
             }
           },
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "Diagrammi di Sequenza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,12 +177,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef4de795167cbf8d",
+  "active": "71aee90cf24d947c",
   "lastOpenFiles": [
+    "Indice.md",
+    "Diagrammi di Sequenza.md",
     "Capitoli/Architetture Software.md",
     "Viste/Vista Strutturale/Vista Strutturale.md",
     "Viste/Vista Strutturale/Vista Strutturale d'Uso.md",
-    "Indice.md",
     "Definizioni/Analisi dello Standish Group.md",
     "Fasi dell'Analisi dei Requisiti/Acquisizione.md",
     "Fasi dell'Analisi dei Requisiti/Convalida.md",
@@ -205,7 +219,6 @@
     "Viste/Vista Strutturale/Vista Strutturale a Strati.md",
     "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
     "Viste/Vista Comportamentale/Publish-Subscribe.md",
-    "Viste/Vista Comportamentale/Pipes and Filters.md",
     "Macchina a Stati",
     "Componenti UML",
     "Images",
