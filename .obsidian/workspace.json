@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -177,8 +176,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71aee90cf24d947c",
+  "active": "b93f8041e669f8e8",
   "lastOpenFiles": [
+    "Schermata 2023-11-11 alle 19.32.19.png",
+    "Schermata 2023-11-11 alle 19.26.44.png",
+    "Schermata 2023-11-11 alle 19.26.18.png",
+    "Schermata 2023-11-11 alle 19.25.44.png",
+    "Schermata 2023-11-11 alle 19.23.53.png",
+    "Schermata 2023-11-11 alle 19.18.45.png",
+    "Images/Schermata 2023-11-11 alle 19.17.17.png",
+    "Images/Schermata 2023-11-11 alle 19.16.05.png",
+    "Images/Schermata 2023-11-11 alle 19.14.59.png",
+    "Images/Schermata 2023-11-11 alle 19.12.35.png",
     "Indice.md",
     "Diagrammi di Sequenza.md",
     "Capitoli/Architetture Software.md",
@@ -206,19 +215,9 @@
     "Viste",
     "Senza nome.md",
     "Images/Immagine 2023-11-08 164731.png",
-    "Images/Pasted image 20231108183618.png",
-    "Images/Pasted image 20231108181921.png",
-    "Images/Pasted image 20231108181207.png",
-    "Images/Pasted image 20231108182625.png",
-    "Images/Pasted image 20231108181308.png",
-    "Images/Pasted image 20231108181243.png",
-    "Images/Pasted image 20231108181543.png",
-    "Images/Pasted image 20231108175804.png",
-    "Images/Pasted image 20231108164327.png",
     "Viste/Vista Strutturale/Vista Strutturale di Generalizzazione.md",
     "Viste/Vista Strutturale/Vista Strutturale a Strati.md",
     "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
-    "Viste/Vista Comportamentale/Publish-Subscribe.md",
     "Macchina a Stati",
     "Componenti UML",
     "Images",
