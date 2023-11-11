@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indice.md",
+                "file": "Capitoli/Architetture Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -94,9 +95,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "Capitoli/Architetture Software.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md"
+                "file": "Capitoli/Architetture Software.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "Capitoli/Architetture Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,8 +164,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b93f8041e669f8e8",
+  "active": "ef4de795167cbf8d",
   "lastOpenFiles": [
+    "Indice.md",
+    "Definizioni/Analisi dello Standish Group.md",
+    "Fasi dell'Analisi dei Requisiti/Acquisizione.md",
+    "Fasi dell'Analisi dei Requisiti/Convalida.md",
+    "Fasi dell'Analisi dei Requisiti/Elaborazione.md",
+    "Fasi dell'Analisi dei Requisiti/Negoziazione.md",
+    "Fasi dell'Analisi dei Requisiti/Gestione.md",
+    "Fasi dell'Analisi dei Requisiti/Studio di Fattibilità.md",
     "README.md",
     "Viste/Vista Logistica/Vista Logistica.md",
     "Viste/Vista Comportamentale/Vista Comportamentale.md",
@@ -172,7 +181,6 @@
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",
-    "Indice.md",
     "Viste/Vista Comportamentale/Client-Server.md",
     "Definizioni/Connettori.md",
     "Viste/Vista Comportamentale/Coordinatore di Processi.md",
@@ -198,14 +206,7 @@
     "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
     "Viste/Vista Comportamentale/Publish-Subscribe.md",
     "Viste/Vista Comportamentale/Pipes and Filters.md",
-    "Definizioni/Componenti Software.md",
-    "Definizioni/Porti.md",
-    "Capitoli/Specificità del software.md",
-    "Componenti UML/Molteplicità.md",
     "Macchina a Stati",
-    "Capitoli/Diagramma di macchina a stati.md",
-    "Macchina a Stati/Storia.md",
-    "Macchina a Stati/Decisione.md",
     "Componenti UML",
     "Images",
     "Fasi dell'Analisi dei Requisiti",
