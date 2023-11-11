@@ -8,3 +8,4 @@
 8. [[Diagramma di macchina a stati]]
 9. [[Architetture Software]]
 10. [[Diagrammi di Sequenza]]
+11. [[Principi di Progettazione]]

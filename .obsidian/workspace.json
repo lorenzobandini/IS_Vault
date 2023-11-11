@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "71aee90cf24d947c",
+            "id": "b92d28a6e7d9cd88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diagrammi di Sequenza.md",
+                "file": "Principi di Progettazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64046b361c0b0f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Hiding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -107,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagrammi di Sequenza.md",
+                "file": "Information Hiding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagrammi di Sequenza.md"
+                "file": "Information Hiding.md"
               }
             }
           },
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagrammi di Sequenza.md",
+                "file": "Information Hiding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,20 +189,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b93f8041e669f8e8",
+  "active": "64046b361c0b0f9d",
   "lastOpenFiles": [
-    "Schermata 2023-11-11 alle 19.32.19.png",
-    "Schermata 2023-11-11 alle 19.26.44.png",
-    "Schermata 2023-11-11 alle 19.26.18.png",
-    "Schermata 2023-11-11 alle 19.25.44.png",
-    "Schermata 2023-11-11 alle 19.23.53.png",
-    "Schermata 2023-11-11 alle 19.18.45.png",
+    "Principi di Progettazione.md",
+    "Information Hiding.md",
+    "Indice.md",
+    "Viste/Vista Comportamentale/Vista Comportamentale.md",
+    "Viste/Vista Comportamentale/Pipes and Filters.md",
+    "Capitoli/Diagrammi di Sequenza.md",
+    "Images/Schermata 2023-11-11 alle 19.32.19.png",
+    "Images/Schermata 2023-11-11 alle 19.26.44.png",
+    "Images/Schermata 2023-11-11 alle 19.26.18.png",
+    "Images/Schermata 2023-11-11 alle 19.25.44.png",
+    "Images/Schermata 2023-11-11 alle 19.23.53.png",
+    "Images/Schermata 2023-11-11 alle 19.18.45.png",
     "Images/Schermata 2023-11-11 alle 19.17.17.png",
     "Images/Schermata 2023-11-11 alle 19.16.05.png",
     "Images/Schermata 2023-11-11 alle 19.14.59.png",
     "Images/Schermata 2023-11-11 alle 19.12.35.png",
-    "Indice.md",
-    "Diagrammi di Sequenza.md",
     "Capitoli/Architetture Software.md",
     "Viste/Vista Strutturale/Vista Strutturale.md",
     "Viste/Vista Strutturale/Vista Strutturale d'Uso.md",
@@ -202,7 +219,6 @@
     "Fasi dell'Analisi dei Requisiti/Studio di Fattibilità.md",
     "README.md",
     "Viste/Vista Logistica/Vista Logistica.md",
-    "Viste/Vista Comportamentale/Vista Comportamentale.md",
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",
@@ -214,10 +230,7 @@
     "Viste/Vista Comportamentale/Peer-to-Peer.md",
     "Viste",
     "Senza nome.md",
-    "Images/Immagine 2023-11-08 164731.png",
     "Viste/Vista Strutturale/Vista Strutturale di Generalizzazione.md",
-    "Viste/Vista Strutturale/Vista Strutturale a Strati.md",
-    "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
     "Macchina a Stati",
     "Componenti UML",
     "Images",
