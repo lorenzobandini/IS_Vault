@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/Architetture Software.md",
+                "file": "Indice.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Architetture Software.md",
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/Architetture Software.md"
+                "file": "Indice.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Architetture Software.md",
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +166,9 @@
   },
   "active": "ef4de795167cbf8d",
   "lastOpenFiles": [
+    "Capitoli/Architetture Software.md",
+    "Viste/Vista Strutturale/Vista Strutturale.md",
+    "Viste/Vista Strutturale/Vista Strutturale d'Uso.md",
     "Indice.md",
     "Definizioni/Analisi dello Standish Group.md",
     "Fasi dell'Analisi dei Requisiti/Acquisizione.md",
@@ -177,7 +180,6 @@
     "README.md",
     "Viste/Vista Logistica/Vista Logistica.md",
     "Viste/Vista Comportamentale/Vista Comportamentale.md",
-    "Capitoli/Architetture Software.md",
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",
@@ -199,10 +201,8 @@
     "Images/Pasted image 20231108181543.png",
     "Images/Pasted image 20231108175804.png",
     "Images/Pasted image 20231108164327.png",
-    "Viste/Vista Strutturale/Vista Strutturale.md",
     "Viste/Vista Strutturale/Vista Strutturale di Generalizzazione.md",
     "Viste/Vista Strutturale/Vista Strutturale a Strati.md",
-    "Viste/Vista Strutturale/Vista Strutturale d'Uso.md",
     "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
     "Viste/Vista Comportamentale/Publish-Subscribe.md",
     "Viste/Vista Comportamentale/Pipes and Filters.md",
