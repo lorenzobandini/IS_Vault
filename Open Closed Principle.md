@@ -1,0 +1,3 @@
+Le entità software devono essere aperte per estensione ma chiuse per modifiche. Disegnare moduli, quindi, che non cambiano e quando i requisiti cambiano, estendere il comportamento del modulo aggiungendo nuovo codice ma non cambiando quello vecchio che già funziona.
+
+Disegnare classi in modo che sia possibile estenderle ma senza cambiarle. Questo è possibile mediante l'uso di classi astratte e classi concrete che le implementano e deleghe.

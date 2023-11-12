@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "ca104b7360b50036",
+            "id": "5bcdda794a7a42b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Single Responsibility Principle.md",
+                "file": "Open Closed Principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Single Responsibility Principle.md",
+                "file": "Open Closed Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Single Responsibility Principle.md"
+                "file": "Open Closed Principle.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Single Responsibility Principle.md",
+                "file": "Open Closed Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,9 +201,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca104b7360b50036",
+  "active": "5bcdda794a7a42b8",
   "lastOpenFiles": [
     "SOLID.md",
+    "Open Closed Principle.md",
     "Single Responsibility Principle.md",
     "Capitoli/Principi di Progettazione.md",
     "Disaccoppiamento.md",
@@ -241,7 +242,6 @@
     "Viste/Vista Strutturale",
     "Viste/Vista Comportamentale/Client-Server.md",
     "Definizioni/Connettori.md",
-    "Viste/Vista Comportamentale/Coordinatore di Processi.md",
     "Viste",
     "Macchina a Stati",
     "Componenti UML",
