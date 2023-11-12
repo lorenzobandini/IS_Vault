@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principi di Progettazione.md",
+                "file": "Capitoli/Principi di Progettazione.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Hiding.md",
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Hiding.md"
+                "file": "Indice.md"
               }
             }
           },
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Hiding.md",
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 561.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,9 +187,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64046b361c0b0f9d",
+  "active": "b93f8041e669f8e8",
   "lastOpenFiles": [
-    "Principi di Progettazione.md",
+    "Capitoli/Principi di Progettazione.md",
     "Information Hiding.md",
     "Indice.md",
     "Viste/Vista Comportamentale/Vista Comportamentale.md",
