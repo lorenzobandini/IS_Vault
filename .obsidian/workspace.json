@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "Information Hiding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md"
+                "file": "Information Hiding.md"
               }
             }
           },
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "Information Hiding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 561.5
+    "width": 561.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,11 +189,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b93f8041e669f8e8",
+  "active": "64046b361c0b0f9d",
   "lastOpenFiles": [
+    "Indice.md",
     "Capitoli/Principi di Progettazione.md",
     "Information Hiding.md",
-    "Indice.md",
     "Viste/Vista Comportamentale/Vista Comportamentale.md",
     "Viste/Vista Comportamentale/Pipes and Filters.md",
     "Capitoli/Diagrammi di Sequenza.md",
