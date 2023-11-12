@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "634c1cd1c1b9b8ed",
+            "id": "899091108d11480b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOLID.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bcdda794a7a42b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Open Closed Principle.md",
+                "file": "GRASP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Open Closed Principle.md",
+                "file": "GRASP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open Closed Principle.md"
+                "file": "GRASP.md"
               }
             }
           },
@@ -173,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open Closed Principle.md",
+                "file": "GRASP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,16 +189,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5bcdda794a7a42b8",
+  "active": "899091108d11480b",
   "lastOpenFiles": [
+    "Capitoli/Principi di Progettazione.md",
     "SOLID.md",
+    "GRASP.md",
+    "Liskov Substitution Principle.md",
+    "Dependency Inversion Principle.md",
+    "Indice.md",
+    "Interface Segregation Principle.md",
     "Open Closed Principle.md",
     "Single Responsibility Principle.md",
-    "Capitoli/Principi di Progettazione.md",
     "Disaccoppiamento.md",
     "Schermata 2023-11-12 alle 18.52.33.png",
     "Coesione.md",
-    "Indice.md",
     "Astrazione.md",
     "Information Hiding.md",
     "Viste/Vista Comportamentale/Vista Comportamentale.md",
@@ -235,13 +227,9 @@
     "Fasi dell'Analisi dei Requisiti/Negoziazione.md",
     "Fasi dell'Analisi dei Requisiti/Gestione.md",
     "Fasi dell'Analisi dei Requisiti/Studio di Fattibilità.md",
-    "README.md",
-    "Viste/Vista Logistica/Vista Logistica.md",
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",
-    "Viste/Vista Comportamentale/Client-Server.md",
-    "Definizioni/Connettori.md",
     "Viste",
     "Macchina a Stati",
     "Componenti UML",

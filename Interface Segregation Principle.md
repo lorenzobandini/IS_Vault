@@ -1,0 +1,2 @@
+Fate interfacce a grana fine e specifiche per ogni cliente. I clienti non devono dipendere da interfacce che non usano.
+Questo principio dice che occorre prestare attenzione al modo in cui si scrivono interfacce mettendo solo i metodi necessari e ad implementare ogni metodo che si aggiunge.
