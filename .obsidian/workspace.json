@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca104b7360b50036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Single Responsibility Principle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOLID.md",
+                "file": "Single Responsibility Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOLID.md"
+                "file": "Single Responsibility Principle.md"
               }
             }
           },
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOLID.md",
+                "file": "Single Responsibility Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,10 +201,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "634c1cd1c1b9b8ed",
+  "active": "ca104b7360b50036",
   "lastOpenFiles": [
-    "Capitoli/Principi di Progettazione.md",
     "SOLID.md",
+    "Single Responsibility Principle.md",
+    "Capitoli/Principi di Progettazione.md",
     "Disaccoppiamento.md",
     "Schermata 2023-11-12 alle 18.52.33.png",
     "Coesione.md",
@@ -229,7 +242,6 @@
     "Viste/Vista Comportamentale/Client-Server.md",
     "Definizioni/Connettori.md",
     "Viste/Vista Comportamentale/Coordinatore di Processi.md",
-    "Viste/Vista Comportamentale/Model-View-Controller.md",
     "Viste",
     "Macchina a Stati",
     "Componenti UML",

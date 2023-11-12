@@ -1,0 +1,1 @@
+Una classe, un modulo o un metodo dovrebbe avere solo un motivo per cambiare.
