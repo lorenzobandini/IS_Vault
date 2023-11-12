@@ -1,0 +1,4 @@
+Nei programmi di programmazione tradizionali per modulo si intende una prima forma di astrazione effettuata sul flusso di controllo e il concetto di modulo è identificato con il concetto di subroutine o procedura.
+Una procedura può effettivamente nascondere una scelta di progetto riguardante l'algoritmo utilizzato. Le procedure in quanto astrazioni sul controllo sono utilizzate come parti di alcune classi di moduli, che prendono il nome di librerie.
+
+Un'astrazione di dato è un modo di incapsulare un dato in una rappresentazione tale da regolamentarne l'accesso e la modifica. L'interfaccia rimane stabile anche in presenza di modifiche all'implementazione della struttura dati. Non sono però puramente funzionali come le librerie perché il risultato dell'invocazione di un'operazione può comportare modifiche al dato.
