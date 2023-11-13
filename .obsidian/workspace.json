@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "c4669b670c035f64",
+            "id": "3ce1b7e5642de648",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,12 +178,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4669b670c035f64",
+  "active": "3ce1b7e5642de648",
   "lastOpenFiles": [
-    "Simple Factory.md",
-    "Factory Method.md",
-    "Pasted image 20231113161941.png",
     "Capitoli/Design Patterns.md",
+    "Simple Factory.md",
+    "Abstract Factory.md",
+    "Pasted image 20231113164406.png",
+    "Factory Method.md",
+    "Pasted image 20231113162826.png",
+    "Pasted image 20231113161941.png",
     "Indice.md",
     "Design Patterns/Pattern Comportamentali/Strategy.md",
     "Design Patterns/Pattern Creazionali",
@@ -214,14 +217,10 @@
     "SOLID/Liskov Substitution Principle.md",
     "Viste/Vista Comportamentale/Coordinatore di Processi.md",
     "Images/Schermata 2023-11-13 alle 01.36.30.png",
-    "Viste/Vista Comportamentale/Peer-to-Peer.md",
     "Images/Schermata 2023-11-13 alle 01.36.15.png",
-    "Viste/Vista Comportamentale/Publish-Subscribe.md",
     "Images/Schermata 2023-11-13 alle 01.35.46.png",
     "Images/Schermata 2023-11-13 alle 01.35.25.png",
     "Images/Schermata 2023-11-13 alle 01.34.33.png",
-    "Images/Schermata 2023-11-13 alle 00.28.40.png",
-    "Images/Schermata 2023-11-12 alle 18.52.33.png",
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",
