@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a74115cf7ac30e4e",
+        "id": "2410b1e4460ae103",
         "type": "tabs",
         "children": [
           {
-            "id": "9061003846b3e4f8",
+            "id": "c002aa08876b9f5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "State.md",
+                "file": "Capitoli/Design Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State.md",
+                "file": "Capitoli/Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "State.md"
+                "file": "Capitoli/Design Patterns.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State.md",
+                "file": "Capitoli/Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,18 +165,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9061003846b3e4f8",
+  "active": "c002aa08876b9f5d",
   "lastOpenFiles": [
-    "Strategy.md",
-    "State.md",
-    "Pasted image 20231113124901.png",
+    "Indice.md",
+    "Design Patterns/Pattern Comportamentali/Strategy.md",
+    "Design Patterns/Pattern Creazionali",
+    "Design Patterns/Pattern Comportamentali",
+    "Design Patterns",
+    "Design Patterns/Pattern Comportamentali/State.md",
+    "Images/Pasted image 20231113124901.png",
+    "Images/Pasted image 20231113113957.png",
+    "Capitoli/Diagrammi di Sequenza.md",
     "Capitoli/Design Patterns.md",
     "SOLID/Dependency Inversion Principle.md",
-    "Evita l'ereditarietà se puoi.md",
+    "Capitoli/Evita l'ereditarietà se puoi.md",
     "SOLID/SOLID.md",
-    "Indice.md",
-    "GoF.md",
-    "Pasted image 20231113113957.png",
+    "Capitoli/GoF.md",
     "Principi di Progettazione/Astrazione.md",
     "Definizioni/GRASP.md",
     "Capitoli/Principi di Progettazione.md",
@@ -200,7 +204,6 @@
     "Images/Schermata 2023-11-13 alle 01.35.46.png",
     "Viste/Vista Comportamentale/Pipes and Filters.md",
     "Images/Schermata 2023-11-13 alle 01.35.25.png",
-    "Viste/Vista Comportamentale/Client-Server.md",
     "Images/Schermata 2023-11-13 alle 01.34.33.png",
     "Images/Schermata 2023-11-13 alle 00.28.40.png",
     "Images/Schermata 2023-11-12 alle 18.52.33.png",
@@ -209,9 +212,6 @@
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",
     "Viste",
-    "Macchina a Stati",
-    "Componenti UML",
-    "Images",
     "Senza nome.canvas"
   ]
 }
