@@ -11,3 +11,5 @@
 11. [[Principi di Progettazione]]
 12. [[Qualità del Prodotto]]
 13. [[Design Patterns]]
+14. [[GoF]]
+15. 
