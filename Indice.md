@@ -12,4 +12,4 @@
 12. [[Qualità del Prodotto]]
 13. [[Design Patterns]]
 14. [[GoF]]
-15. 
+15. [[Evita l'ereditarietà se puoi]]

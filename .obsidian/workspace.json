@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "79ddb53b92ca2286",
+            "id": "2c66fa7e7516815a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoF.md",
+                "file": "Evita l'ereditarietà se puoi.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoF.md",
+                "file": "Evita l'ereditarietà se puoi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoF.md"
+                "file": "Evita l'ereditarietà se puoi.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoF.md",
+                "file": "Evita l'ereditarietà se puoi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,11 +178,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b93f8041e669f8e8",
+  "active": "2c66fa7e7516815a",
   "lastOpenFiles": [
-    "Capitoli/Design Patterns.md",
-    "GoF.md",
     "Indice.md",
+    "Evita l'ereditarietà se puoi.md",
+    "Capitoli/Design Patterns.md",
+    "Strategy.md",
+    "GoF.md",
+    "Pasted image 20231113113957.png",
     "Principi di Progettazione/Astrazione.md",
     "Definizioni/GRASP.md",
     "Capitoli/Principi di Progettazione.md",
@@ -213,12 +216,9 @@
     "Caratteristiche del prodotto/Sicurezza.md",
     "Caratteristiche del prodotto/Compatibilità.md",
     "Images/Schermata 2023-11-13 alle 00.28.40.png",
-    "SOLID/Dependency Inversion Principle.md",
-    "SOLID/Interface Segregation Principle.md",
     "Images/Schermata 2023-11-12 alle 18.52.33.png",
     "Images/Schermata 2023-11-11 alle 19.32.19.png",
     "Images/Schermata 2023-11-11 alle 19.26.44.png",
-    "Images/Schermata 2023-11-11 alle 19.26.18.png",
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",
