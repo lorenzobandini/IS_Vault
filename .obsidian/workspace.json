@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b552a7e8748259b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Efficienza delle prestazioni.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Efficienza delle prestazioni.md",
+                "file": "Qualità del Prodotto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Efficienza delle prestazioni.md"
+                "file": "Qualità del Prodotto.md"
               }
             }
           },
@@ -161,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efficienza delle prestazioni.md",
+                "file": "Qualità del Prodotto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,9 +177,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b552a7e8748259b9",
+  "active": "e1e35a5762ba6f93",
   "lastOpenFiles": [
+    "Viste/Vista Comportamentale/Client-Server.md",
     "Qualità del Prodotto.md",
+    "Portabilità.md",
+    "Manutenibilità.md",
+    "Sicurezza.md",
+    "Affidabilità.md",
+    "Usabilità.md",
+    "Compatibilità.md",
     "Efficienza delle prestazioni.md",
     "Adeguatezza funzionale.md",
     "Schermata 2023-11-13 alle 00.28.40.png",
@@ -220,13 +215,6 @@
     "Images/Schermata 2023-11-11 alle 19.18.45.png",
     "Images/Schermata 2023-11-11 alle 19.17.17.png",
     "Images/Schermata 2023-11-11 alle 19.16.05.png",
-    "Capitoli/Architetture Software.md",
-    "Viste/Vista Strutturale/Vista Strutturale.md",
-    "Viste/Vista Strutturale/Vista Strutturale d'Uso.md",
-    "Definizioni/Analisi dello Standish Group.md",
-    "Fasi dell'Analisi dei Requisiti/Acquisizione.md",
-    "Fasi dell'Analisi dei Requisiti/Convalida.md",
-    "Fasi dell'Analisi dei Requisiti/Elaborazione.md",
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",
