@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Indice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb68b9f1620868b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principi di Progettazione/Astrazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f577c45a56985555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definizioni/GRASP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -95,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Definizioni/GRASP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns.md"
+                "file": "Definizioni/GRASP.md"
               }
             }
           },
@@ -136,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns.md",
+                "file": "Definizioni/GRASP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,41 +189,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d899d9c0ff0369c",
+  "active": "f577c45a56985555",
   "lastOpenFiles": [
-    "Design Patterns.md",
-    "Indice.md",
     "Capitoli/Principi di Progettazione.md",
-    "SOLID.md",
-    "Liskov Substitution Principle.md",
-    "Qualità del Prodotto.md",
+    "Definizioni/GRASP.md",
+    "Principi di Progettazione",
+    "Principi di Progettazione/Astrazione.md",
+    "Capitoli/Qualità del Prodotto.md",
+    "Caratteristiche del prodotto",
+    "Indice.md",
+    "Caratteristiche del prodotto/Manutenibilità.md",
+    "Caratteristiche del prodotto/Affidabilità.md",
+    "Caratteristiche del prodotto/Usabilità.md",
+    "Caratteristiche del prodotto/Efficienza delle prestazioni.md",
+    "Principi di Progettazione/Disaccoppiamento.md",
+    "Principi di Progettazione/Coesione.md",
+    "Caratteristiche del prodotto/Adeguatezza funzionale.md",
+    "SOLID/SOLID.md",
+    "SOLID",
+    "Capitoli/Design Patterns.md",
+    "SOLID/Liskov Substitution Principle.md",
     "Viste/Vista Comportamentale/Coordinatore di Processi.md",
-    "Schermata 2023-11-13 alle 01.36.30.png",
+    "Images/Schermata 2023-11-13 alle 01.36.30.png",
     "Viste/Vista Comportamentale/Peer-to-Peer.md",
-    "Schermata 2023-11-13 alle 01.36.15.png",
+    "Images/Schermata 2023-11-13 alle 01.36.15.png",
     "Viste/Vista Comportamentale/Publish-Subscribe.md",
-    "Schermata 2023-11-13 alle 01.35.46.png",
+    "Images/Schermata 2023-11-13 alle 01.35.46.png",
     "Viste/Vista Comportamentale/Pipes and Filters.md",
-    "Schermata 2023-11-13 alle 01.35.25.png",
+    "Images/Schermata 2023-11-13 alle 01.35.25.png",
     "Viste/Vista Comportamentale/Client-Server.md",
-    "Schermata 2023-11-13 alle 01.34.33.png",
-    "Portabilità.md",
-    "Manutenibilità.md",
-    "Sicurezza.md",
-    "Affidabilità.md",
-    "Usabilità.md",
-    "Compatibilità.md",
-    "Efficienza delle prestazioni.md",
-    "Adeguatezza funzionale.md",
-    "Schermata 2023-11-13 alle 00.28.40.png",
-    "GRASP.md",
-    "Dependency Inversion Principle.md",
-    "Interface Segregation Principle.md",
-    "Open Closed Principle.md",
-    "Single Responsibility Principle.md",
-    "Disaccoppiamento.md",
-    "Schermata 2023-11-12 alle 18.52.33.png",
-    "Coesione.md",
+    "Images/Schermata 2023-11-13 alle 01.34.33.png",
+    "Caratteristiche del prodotto/Portabilità.md",
+    "Caratteristiche del prodotto/Sicurezza.md",
+    "Caratteristiche del prodotto/Compatibilità.md",
+    "Images/Schermata 2023-11-13 alle 00.28.40.png",
+    "SOLID/Dependency Inversion Principle.md",
+    "SOLID/Interface Segregation Principle.md",
+    "Images/Schermata 2023-11-12 alle 18.52.33.png",
     "Images/Schermata 2023-11-11 alle 19.32.19.png",
     "Images/Schermata 2023-11-11 alle 19.26.44.png",
     "Images/Schermata 2023-11-11 alle 19.26.18.png",
@@ -209,9 +236,6 @@
     "Macchina a Stati",
     "Componenti UML",
     "Images",
-    "Fasi dell'Analisi dei Requisiti",
-    "Capitoli",
-    "Modelli di Lavoro",
     "Senza nome.canvas"
   ]
 }
