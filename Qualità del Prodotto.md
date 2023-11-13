@@ -11,3 +11,5 @@ Le otto caratteristiche su cui si misura la qualità di un prodotto sono:
 - [[Sicurezza]]
 - [[Manutenibilità]]
 - [[Portabilità]]
+
+Alcune caratteristiche per valutare alcuni stili architetturali sono:
