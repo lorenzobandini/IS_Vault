@@ -27,14 +27,15 @@ Per le **questioni implementative**:
 - Il Creatore può essere astratto o concreto.
 - Ci chiediamo se il metodo fabbrica possa essere in grado di creare più tipi di prodotti e in tal caso abbiamo bisogno di un costrutto if-else per decidere quale oggetto creare.
 
-Esistono anche le Pure Fabrication, un pattern [[GRASP]] che vuole risolvere il problema di non vi
+Esistono anche le Pure Fabrication, un pattern [[GRASP]] che vuole risolvere il problema di non violare l'alta coesione e il basso accoppiamento assegnando un insieme altamente coeso di responsabilità a una classe artificiale che non rappresenta nulla nel dominio del problema al fine di supportare alta coesione, basso accoppiamento e riutilizzo
 
-Pattern GRASP
-Problema:
-◦ Non violare l'Alta Coesione e il Basso Accoppiamento
-Soluzione:
-◦ Assegnare un insieme altamente coeso di responsabilità a una
-classe artificiale
-◦ che non rappresenta nulla nel dominio del problema,
-◦ al fine di supportare alta coesione, basso accoppiamento e
-riutilizzo.
+La progettazione degli oggetti può essere grossolanamente suddivisa in due gruppi:
+- Quelli scelti dalla decomposizione rappresentativa.
+- Quelli scelti dalla decomposizione comportamentale.
+
+Il secondo gruppo non rappresenta nulla nel dominio del problema, sono semplicemente creati per comodità del progettista, da cui il nome "pure fabrication": le classi sono progettate per raggruppare comportamenti correlati.
+Un oggetto di Pure Fabrication è una sorta di oggetto centrato sulla funzione.
+
+In generale una Factory è un Pure Fabrication con l'obiettivo di:
+- Confinare la responsabilità di creazioni complesse in oggetti coesi
+- Incapsulare la complessità della logica di creazione
