@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e1e35a5762ba6f93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qualità del Prodotto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qualità del Prodotto.md",
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qualità del Prodotto.md"
+                "file": "Indice.md"
               }
             }
           },
@@ -149,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qualità del Prodotto.md",
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +147,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,10 +165,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e1e35a5762ba6f93",
+  "active": "ef4de795167cbf8d",
   "lastOpenFiles": [
-    "Viste/Vista Comportamentale/Client-Server.md",
     "Qualità del Prodotto.md",
+    "Indice.md",
+    "Viste/Vista Comportamentale/Coordinatore di Processi.md",
+    "Schermata 2023-11-13 alle 01.36.30.png",
+    "Viste/Vista Comportamentale/Peer-to-Peer.md",
+    "Schermata 2023-11-13 alle 01.36.15.png",
+    "Viste/Vista Comportamentale/Publish-Subscribe.md",
+    "Schermata 2023-11-13 alle 01.35.46.png",
+    "Viste/Vista Comportamentale/Pipes and Filters.md",
+    "Schermata 2023-11-13 alle 01.35.25.png",
+    "Viste/Vista Comportamentale/Client-Server.md",
+    "Schermata 2023-11-13 alle 01.34.33.png",
     "Portabilità.md",
     "Manutenibilità.md",
     "Sicurezza.md",
@@ -190,7 +188,6 @@
     "Efficienza delle prestazioni.md",
     "Adeguatezza funzionale.md",
     "Schermata 2023-11-13 alle 00.28.40.png",
-    "Indice.md",
     "Capitoli/Principi di Progettazione.md",
     "GRASP.md",
     "SOLID.md",
@@ -203,18 +200,9 @@
     "Schermata 2023-11-12 alle 18.52.33.png",
     "Coesione.md",
     "Astrazione.md",
-    "Information Hiding.md",
-    "Viste/Vista Comportamentale/Vista Comportamentale.md",
-    "Viste/Vista Comportamentale/Pipes and Filters.md",
-    "Capitoli/Diagrammi di Sequenza.md",
     "Images/Schermata 2023-11-11 alle 19.32.19.png",
     "Images/Schermata 2023-11-11 alle 19.26.44.png",
     "Images/Schermata 2023-11-11 alle 19.26.18.png",
-    "Images/Schermata 2023-11-11 alle 19.25.44.png",
-    "Images/Schermata 2023-11-11 alle 19.23.53.png",
-    "Images/Schermata 2023-11-11 alle 19.18.45.png",
-    "Images/Schermata 2023-11-11 alle 19.17.17.png",
-    "Images/Schermata 2023-11-11 alle 19.16.05.png",
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",

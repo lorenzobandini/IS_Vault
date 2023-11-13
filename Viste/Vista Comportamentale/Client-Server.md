@@ -6,3 +6,7 @@ Il server svolge le operazioni necessarie per realizzare un servizio e aspetta l
 
 Per realizzare un'architettura client-server il lato server utilizza uno o più thread in ascolto delle richieste, più un gestore delle richieste. Quando riceve una richiesta, la elabora e invia una risposta al client. I server possono essere ulteriormente classificati come stateless oppure stateful.
 I client di un server stateful possono fare richieste composite che consistono in più richieste atomiche. Ciò consente un'interazione più colloquiale o transazionale tra client e server. A tal fine, un server stateful conserva un record delle richieste di ciascun client corrente. Questo record è chiamato sessione.
+
+Valutazione delle caratteristiche:
+
+![[Schermata 2023-11-13 alle 01.34.33.png]]

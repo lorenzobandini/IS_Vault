@@ -8,3 +8,7 @@ Lo stile Pipes and Filters consiste in una catena di filtri per l'elaborazione d
 ![[Pasted image 20231108135643.png]]
 
 Gli elementi del modello Pipes and Filter possono variare nelle funzioni che svolgono.
+
+Valutazione delle caratteristiche:
+
+![[Schermata 2023-11-13 alle 01.35.25.png]]

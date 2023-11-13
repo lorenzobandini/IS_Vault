@@ -23,3 +23,7 @@ La diffusione può avvenire sia con:
 - Modello Pull:
 	- il consumatore si assume la responsabilità di recuperare i messaggi dal broker
 	- il consumatore deve mantenere un valore che identifica il prossimo messaggio successivo da trasmettere ed elaborare
+
+Valutazione delle caratteristiche:
+
+![[Schermata 2023-11-13 alle 01.35.46.png]]
