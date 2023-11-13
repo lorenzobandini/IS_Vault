@@ -20,10 +20,14 @@ L'ereditarietà da la possibilità di:
 Ma non ti permette di non averle tutte. Infatti certe volte una di queste può non essere necessario ma paghi lo stesso il costo di ognuna di esse rendendo il codice più difficile da modificare o leggere.
 A volte una di queste non viene applicata ma siamo costretti a preservare la compatibilità di tipo anche se non è perfetta.
 
-Implementare interfacce è corretto e necessario per l'inversione delle dipendenze e il polimorfismo.
-Utilizza la programmazione generica quando disponibile e il polimorfismo è parametrico (ad esempio, nei contenitori).
-Estendere le interfacce può essere accettabile in alcuni casi per implicare la compatibilità (per esempio, se si desidera esprimere che la versione 2 di un'interfaccia è compatibile con la versione 1), ma fai attenzione a far crescere troppo le interfacce (in particolare, non sarai in grado di capire se i clienti della versione 100 hanno ancora bisogno dei metodi della versione 1). L'ereditarietà non può essere interrotta in quanto fa parte dell'interfaccia pubblica.
-Non introdurre relazioni di sotto tipo solo perché qualcosa "dovrebbe essere" qualcos'altro. Aspetta una ragione pratica. Non implementare interfacce di cui non hai ancora bisogno.
-Evita l'ereditarietà come meccanismo di riuso del codice.
-Preferisci la composizione (vedi sotto).
-Dividi il comportamento in più piccole interfacce per consentire l'implementazione in più classi piccole non correlate.
+Quindi in conclusione:
+- Implementare interfacce è corretto e necessario per l'inversione delle dipendenze e il polimorfismo per cui si utilizza la programmazione generica quando disponibile e il polimorfismo è parametrico.
+- Estendere le interfacce può essere accettabile in alcuni casi per implicare la compatibilità ma bisogna fare attenzione a far crescere troppo le interfacce. L'ereditarietà non può essere interrotta in quanto fa parte dell'interfaccia pubblica.
+- Non introdurre relazioni di sotto tipo solo perché qualcosa "dovrebbe essere" qualcos'altro. Aspetta una ragione pratica. Non implementare interfacce di cui non hai ancora bisogno.
+- Evita l'ereditarietà come meccanismo di riuso del codice. Preferisci la composizione e dividi il comportamento in più piccole interfacce per consentire l'implementazione in più classi piccole non correlate.
+
+I vantaggi della composizione sull'ereditarietà sono:
+- La dipendenza tra classi può essere astratta con un'interfaccia, mentre l'ereditarietà richiede un'istanza specifica. Ciò aiuta, ad esempio, nei test, così come per altre ragioni in cui opera il DIP ([[Dependency Inversion Principle]]).
+- Favorisce la suddivisione del codice e il riutilizzo poiché una classe può dipendere da diverse altre classi (ma può ereditarne solo una).
+- Rende la dipendenza un dettaglio di implementazione piuttosto che parte dell'interfaccia pubblica (il che consente di cambiarla/rimuoverla in seguito).
+- Consente di modificare le dipendenze in un secondo momento nel ciclo di vita dell'istanza, mentre l'istanza della classe base è fissata al momento della costruzione.

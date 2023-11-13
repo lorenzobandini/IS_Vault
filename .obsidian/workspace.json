@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5bcb223735e05491",
+        "id": "a74115cf7ac30e4e",
         "type": "tabs",
         "children": [
           {
-            "id": "e7e0caff656b4632",
+            "id": "9061003846b3e4f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evita l'ereditarietà se puoi.md",
+                "file": "State.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evita l'ereditarietà se puoi.md",
+                "file": "State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evita l'ereditarietà se puoi.md"
+                "file": "State.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evita l'ereditarietà se puoi.md",
+                "file": "State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,12 +165,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7e0caff656b4632",
+  "active": "9061003846b3e4f8",
   "lastOpenFiles": [
-    "Evita l'ereditarietà se puoi.md",
-    "Indice.md",
-    "Capitoli/Design Patterns.md",
     "Strategy.md",
+    "State.md",
+    "Pasted image 20231113124901.png",
+    "Capitoli/Design Patterns.md",
+    "SOLID/Dependency Inversion Principle.md",
+    "Evita l'ereditarietà se puoi.md",
+    "SOLID/SOLID.md",
+    "Indice.md",
     "GoF.md",
     "Pasted image 20231113113957.png",
     "Principi di Progettazione/Astrazione.md",
@@ -186,7 +190,6 @@
     "Principi di Progettazione/Disaccoppiamento.md",
     "Principi di Progettazione/Coesione.md",
     "Caratteristiche del prodotto/Adeguatezza funzionale.md",
-    "SOLID/SOLID.md",
     "SOLID",
     "SOLID/Liskov Substitution Principle.md",
     "Viste/Vista Comportamentale/Coordinatore di Processi.md",
@@ -199,13 +202,9 @@
     "Images/Schermata 2023-11-13 alle 01.35.25.png",
     "Viste/Vista Comportamentale/Client-Server.md",
     "Images/Schermata 2023-11-13 alle 01.34.33.png",
-    "Caratteristiche del prodotto/Portabilità.md",
-    "Caratteristiche del prodotto/Sicurezza.md",
-    "Caratteristiche del prodotto/Compatibilità.md",
     "Images/Schermata 2023-11-13 alle 00.28.40.png",
     "Images/Schermata 2023-11-12 alle 18.52.33.png",
     "Images/Schermata 2023-11-11 alle 19.32.19.png",
-    "Images/Schermata 2023-11-11 alle 19.26.44.png",
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",

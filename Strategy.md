@@ -2,11 +2,11 @@ Il design pattern comportamentale Strategy definisce una famiglia di algoritmi, 
 Un programma potrebbe dover fornire diverse varianti di un algoritmo o di un comportamento.
 La soluzione è incapsulare le diverse variazioni in classe separate e creare un accesso uniforme ad ognuno di esse.
 
-La struttura quindi sarebbe:
+La struttura è:
 
 ![[Pasted image 20231113113957.png]]
 
-Dove:
+E i partecipanti sono:
 - Strategy: definisce un interfaccia comune che supporta tutti gli algoritmi
 - ConcreteStrategy: ognuno delle concrete strategie implementate negli algoritmi
 - Context: Contiene la referenza ad un oggetto strategia e può definire un interfaccia che consenta alla strategia di accedere ai propri dati invece di passarli come argomenti quando si richiama la strategia metodi
