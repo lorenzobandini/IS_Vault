@@ -21,3 +21,10 @@ Alcune caratteristiche per valutare alcuni stili architetturali sono:
 	-  Verticale: si riferisce all'aggiunta di memoria e CPU ad un singolo nodo.
 	- Orizzontale: si intende l'aggiunta di più nodi HW.
 
+Possiamo analizzare le qualità di:
+- [[Client-Server]]
+- [[Pipes and Filters]]
+- [[Publish-Subscribe]]
+- [[Peer-to-Peer]]
+- [[Coordinatore di Processi]]
+
