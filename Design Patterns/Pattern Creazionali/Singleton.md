@@ -29,6 +29,16 @@ Le possibili soluzioni sono
 2. Sincronizzare il metodo `getInstance()` (La sincronizzazione può ridurre le prestazioni del sistema)
 3. Utilizzare il double-checked locking (L'idea è evitare la costosa sincronizzazione per tutte le invocazioni del metodo tranne la prima)
 
-E se volessimo essere in grado di sottoclassare il Singleton e avere l'unica istanza essere un'istanza della sottoclasse possiamo:
-1. Fare in modo che il metodo statico `getInstance()` di MazeFactory determini la particolare istanza della sottoclasse da istanziare. Questo potrebbe essere fatto tramite un argomento o una variabile d'ambiente. In questo caso, i costruttori delle sottoclassi non possono essere privati e quindi i clienti potrebbero istanziare altre istanze delle sottoclassi.
+E se volessimo essere in grado di sottoclassare il Singleton e avere l'unica istanza essere un'istanza della sottoclasse possiamo fare in due modi diversi:
+1. Fare in modo che il metodo statico `getInstance()` determini la particolare istanza della sottoclasse da istanziare. Questo potrebbe essere fatto tramite un argomento o una variabile d'ambiente. In questo caso, i costruttori delle sottoclassi non possono essere privati e quindi i clienti potrebbero istanziare altre istanze delle sottoclassi.
 2. Fare in modo che ogni sottoclasse fornisca un metodo statico `getInstance()`. Ora i costruttori delle sottoclassi possono essere privati.
+
+Ogni oggetto di una classe ha la propria copia di tutte le variabili di istanza di quella classe.
+Tuttavia, in certi casi, tutti gli oggetti di una classe dovrebbero condividere una sola copia di una particolare variabile. Tali variabili sono chiamate variabili statiche. Un programma contiene solo una copia di ciascuna variabile statica di una classe in memoria, indipendentemente dal numero di oggetti della classe istanziati.
+Una variabile statica rappresenta informazioni a livello di classe. Tutti gli oggetti della classe condividono lo stesso dato statico.
+Gli attributi statici pubblici di una classe possono essere accessibili tramite il nome della classe e l'operatore punto al contrario degli attributi statici privati che possono essere accessibili solo attraverso i metodi e le proprietà di quella classe.
+
+I **Vantaggi** nell'uso dei Singleton sono:
+- Puoi passare l'oggetto come parametro a un altro metodo.
+- Puoi derivare una classe di base.
+- Puoi utilizzare un pattern factory per costruire la tua istanza (e/o scegliere quale classe istanziare).
