@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4669b670c035f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factory Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Design Patterns.md",
+                "file": "Factory Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/Design Patterns.md"
+                "file": "Factory Method.md"
               }
             }
           },
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Design Patterns.md",
+                "file": "Factory Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +178,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c002aa08876b9f5d",
+  "active": "c4669b670c035f64",
   "lastOpenFiles": [
+    "Simple Factory.md",
+    "Factory Method.md",
+    "Pasted image 20231113161941.png",
+    "Capitoli/Design Patterns.md",
     "Indice.md",
     "Design Patterns/Pattern Comportamentali/Strategy.md",
     "Design Patterns/Pattern Creazionali",
@@ -176,7 +193,6 @@
     "Images/Pasted image 20231113124901.png",
     "Images/Pasted image 20231113113957.png",
     "Capitoli/Diagrammi di Sequenza.md",
-    "Capitoli/Design Patterns.md",
     "SOLID/Dependency Inversion Principle.md",
     "Capitoli/Evita l'ereditarietà se puoi.md",
     "SOLID/SOLID.md",
@@ -202,12 +218,10 @@
     "Images/Schermata 2023-11-13 alle 01.36.15.png",
     "Viste/Vista Comportamentale/Publish-Subscribe.md",
     "Images/Schermata 2023-11-13 alle 01.35.46.png",
-    "Viste/Vista Comportamentale/Pipes and Filters.md",
     "Images/Schermata 2023-11-13 alle 01.35.25.png",
     "Images/Schermata 2023-11-13 alle 01.34.33.png",
     "Images/Schermata 2023-11-13 alle 00.28.40.png",
     "Images/Schermata 2023-11-12 alle 18.52.33.png",
-    "Images/Schermata 2023-11-11 alle 19.32.19.png",
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",

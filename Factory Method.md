@@ -1,0 +1,1 @@
+Quando i pattern di creazione di classi si concentrano sull'uso dell'ereditarietà per decidere l'oggetto da istanziare si parla di Factory Method.

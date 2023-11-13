@@ -6,7 +6,7 @@ Esistono una serie di regole pratiche che il progettiste può seguire per costru
 
 I design pattern si applicano nella fase di design.
 In tutto i Design Patterns, derivanti da [[GoF]] sono 23 e sono suddivisi in base al loro scopo:
-- **Creazionali**: propongono soluzioni per creare oggetti. Ad esempio [[Concrete Factory]], [[Abstract Factory]] e [[Singleton]].
+- **Creazionali**: propongono soluzioni per creare oggetti. Ad esempio [[Simple Factory]], [[Abstract Factory]], [[Factory Method]] e [[Singleton]].
 - **Comportamentali**: propongono soluzioni per gestire il modo in cui vengono suddivise le responsabilità delle classi e degli oggetti. Ad esempio [[Strategy]] e [[State]].
 - **Strutturali**: propongono soluzioni per la composizione strutturale di classi e oggetti
 
