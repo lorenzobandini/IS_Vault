@@ -16,4 +16,4 @@ Le collezioni di principi per la progettazione Object-Oriented che sono noti in 
 1. [[SOLID]]
 2. [[GRASP]]
 
-Inoltre ci sono 23 design pattern utilizzati.
+Inoltre ci sono 23 [[design patterns]] utilizzati.
