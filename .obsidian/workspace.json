@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ce1b7e5642de648",
+            "id": "57d66eb84296a39f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Pattern Creazionali/Singleton.md",
+                "file": "Capitoli/Design Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0faa557e9e3db0a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decorator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "beb616b4ad587aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adapter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51ac41e153aaf6d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proxy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -94,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Pattern Creazionali/Singleton.md",
+                "file": "Decorator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Pattern Creazionali/Singleton.md"
+                "file": "Decorator.md"
               }
             }
           },
@@ -135,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Pattern Creazionali/Singleton.md",
+                "file": "Decorator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,18 +202,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b93f8041e669f8e8",
+  "active": "0faa557e9e3db0a6",
   "lastOpenFiles": [
+    "Adapter.md",
+    "Proxy.md",
+    "Capitoli/Design Patterns.md",
+    "Decorator.md",
+    "Indice.md",
+    "Capitoli/GoF.md",
+    "Design Patterns/Pattern Creazionali/Singleton.md",
     "Images/Pasted image 20231113170607.png",
     "Images/Pasted image 20231113164406.png",
     "Images/Pasted image 20231113162826.png",
     "Images/Pasted image 20231113161941.png",
-    "Capitoli/Design Patterns.md",
-    "Design Patterns/Pattern Creazionali/Singleton.md",
     "Design Patterns/Pattern Creazionali/Factory Method.md",
     "Design Patterns/Pattern Creazionali/Simple Factory.md",
     "Design Patterns/Pattern Creazionali/Abstract Factory.md",
-    "Indice.md",
     "Design Patterns/Pattern Comportamentali/Strategy.md",
     "Design Patterns/Pattern Creazionali",
     "Design Patterns/Pattern Comportamentali",
@@ -187,7 +229,6 @@
     "SOLID/Dependency Inversion Principle.md",
     "Capitoli/Evita l'ereditarietà se puoi.md",
     "SOLID/SOLID.md",
-    "Capitoli/GoF.md",
     "Principi di Progettazione/Astrazione.md",
     "Definizioni/GRASP.md",
     "Capitoli/Principi di Progettazione.md",
@@ -200,14 +241,11 @@
     "Caratteristiche del prodotto/Efficienza delle prestazioni.md",
     "Principi di Progettazione/Disaccoppiamento.md",
     "Principi di Progettazione/Coesione.md",
-    "Caratteristiche del prodotto/Adeguatezza funzionale.md",
     "SOLID",
-    "SOLID/Liskov Substitution Principle.md",
     "Images/Schermata 2023-11-13 alle 01.36.30.png",
     "Images/Schermata 2023-11-13 alle 01.36.15.png",
     "Images/Schermata 2023-11-13 alle 01.35.46.png",
     "Images/Schermata 2023-11-13 alle 01.35.25.png",
-    "Images/Schermata 2023-11-13 alle 01.34.33.png",
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",
