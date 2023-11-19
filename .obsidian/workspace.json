@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decorator.md",
+                "file": "Design Patterns/Pattern Strutturali/Decorator.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adapter.md",
+                "file": "Design Patterns/Pattern Strutturali/Adapter.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy.md",
+                "file": "Design Patterns/Pattern Strutturali/Proxy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decorator.md",
+                "file": "Design Patterns/Pattern Strutturali/Decorator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decorator.md"
+                "file": "Design Patterns/Pattern Strutturali/Decorator.md"
               }
             }
           },
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decorator.md",
+                "file": "Design Patterns/Pattern Strutturali/Decorator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,10 +203,13 @@
   },
   "active": "0faa557e9e3db0a6",
   "lastOpenFiles": [
-    "Adapter.md",
-    "Proxy.md",
     "Capitoli/Design Patterns.md",
-    "Decorator.md",
+    "Design Patterns/Pattern Strutturali",
+    "Design Patterns/Senza nome.canvas",
+    "Design Patterns/Pattern Comportamentali/Strategy.md",
+    "Design Patterns/Pattern Strutturali/Decorator.md",
+    "Design Patterns/Pattern Strutturali/Adapter.md",
+    "Design Patterns/Pattern Strutturali/Proxy.md",
     "Indice.md",
     "Capitoli/GoF.md",
     "Design Patterns/Pattern Creazionali/Singleton.md",
@@ -218,7 +220,6 @@
     "Design Patterns/Pattern Creazionali/Factory Method.md",
     "Design Patterns/Pattern Creazionali/Simple Factory.md",
     "Design Patterns/Pattern Creazionali/Abstract Factory.md",
-    "Design Patterns/Pattern Comportamentali/Strategy.md",
     "Design Patterns/Pattern Creazionali",
     "Design Patterns/Pattern Comportamentali",
     "Design Patterns",
@@ -240,7 +241,6 @@
     "Caratteristiche del prodotto/Usabilità.md",
     "Caratteristiche del prodotto/Efficienza delle prestazioni.md",
     "Principi di Progettazione/Disaccoppiamento.md",
-    "Principi di Progettazione/Coesione.md",
     "SOLID",
     "Images/Schermata 2023-11-13 alle 01.36.30.png",
     "Images/Schermata 2023-11-13 alle 01.36.15.png",
@@ -249,7 +249,6 @@
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",
-    "Viste",
     "Senza nome.canvas"
   ]
 }
