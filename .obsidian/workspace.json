@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57d66eb84296a39f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitoli/Design Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0faa557e9e3db0a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns/Pattern Strutturali/Decorator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "beb616b4ad587aff",
             "type": "leaf",
             "state": {
@@ -55,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Pattern Strutturali/Decorator.md",
+                "file": "Design Patterns/Pattern Strutturali/Adapter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Pattern Strutturali/Decorator.md"
+                "file": "Design Patterns/Pattern Strutturali/Adapter.md"
               }
             }
           },
@@ -173,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Pattern Strutturali/Decorator.md",
+                "file": "Design Patterns/Pattern Strutturali/Adapter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,16 +177,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0faa557e9e3db0a6",
+  "active": "beb616b4ad587aff",
   "lastOpenFiles": [
-    "Senza nome.md",
-    "Design Patterns/Pattern Strutturali/Decorator.md",
+    "Design Patterns/Pattern Comportamentali/State.md",
     "Capitoli/Design Patterns.md",
+    "Design Patterns/Pattern Strutturali/Decorator.md",
+    "Pasted image 20231120103603.png",
+    "Design Patterns/Pattern Strutturali/Proxy.md",
+    "Design Patterns/Pattern Strutturali/Adapter.md",
+    "Design Patterns/Pattern Creazionali/Abstract Factory.md",
+    "Senza nome.md",
     "Design Patterns/Pattern Strutturali",
     "Design Patterns/Senza nome.canvas",
     "Design Patterns/Pattern Comportamentali/Strategy.md",
-    "Design Patterns/Pattern Strutturali/Adapter.md",
-    "Design Patterns/Pattern Strutturali/Proxy.md",
     "Indice.md",
     "Capitoli/GoF.md",
     "Design Patterns/Pattern Creazionali/Singleton.md",
@@ -221,11 +199,9 @@
     "Images/Pasted image 20231113161941.png",
     "Design Patterns/Pattern Creazionali/Factory Method.md",
     "Design Patterns/Pattern Creazionali/Simple Factory.md",
-    "Design Patterns/Pattern Creazionali/Abstract Factory.md",
     "Design Patterns/Pattern Creazionali",
     "Design Patterns/Pattern Comportamentali",
     "Design Patterns",
-    "Design Patterns/Pattern Comportamentali/State.md",
     "Images/Pasted image 20231113124901.png",
     "Images/Pasted image 20231113113957.png",
     "Capitoli/Diagrammi di Sequenza.md",
@@ -242,12 +218,10 @@
     "Caratteristiche del prodotto/Affidabilità.md",
     "Caratteristiche del prodotto/Usabilità.md",
     "Caratteristiche del prodotto/Efficienza delle prestazioni.md",
-    "Principi di Progettazione/Disaccoppiamento.md",
     "SOLID",
     "Images/Schermata 2023-11-13 alle 01.36.30.png",
     "Images/Schermata 2023-11-13 alle 01.36.15.png",
     "Images/Schermata 2023-11-13 alle 01.35.46.png",
-    "Images/Schermata 2023-11-13 alle 01.35.25.png",
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",

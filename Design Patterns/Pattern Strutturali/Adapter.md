@@ -1,0 +1,1 @@
+Il design pattern Adapter è un pattern strutturale che consente a interfacce incompatibili di lavorare insieme. Questo pattern consente a classi con interfacce diverse di collaborare, fungendo da ponte tra di loro. L'Adapter traduce un'interfaccia in un'altra, consentendo a oggetti con interfacce incompatibili di comunicare in modo armonioso.
