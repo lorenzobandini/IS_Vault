@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2410b1e4460ae103",
+        "id": "5dd51e30bd3b2c2e",
         "type": "tabs",
         "children": [
           {
-            "id": "beb616b4ad587aff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns/Pattern Strutturali/Adapter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51ac41e153aaf6d8",
+            "id": "5faf13b0e42015bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Pattern Strutturali/Adapter.md",
+                "file": "Design Patterns/Pattern Strutturali/Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Pattern Strutturali/Adapter.md"
+                "file": "Design Patterns/Pattern Strutturali/Proxy.md"
               }
             }
           },
@@ -148,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Pattern Strutturali/Adapter.md",
+                "file": "Design Patterns/Pattern Strutturali/Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,14 +163,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "beb616b4ad587aff",
+  "active": "b93f8041e669f8e8",
   "lastOpenFiles": [
+    "Images/Pasted image 20231120111347.png",
+    "Images/Pasted image 20231120111330.png",
+    "Design Patterns/Pattern Strutturali/Proxy.md",
+    "Design Patterns/Pattern Strutturali/Adapter.md",
+    "Images/Pasted image 20231120110332.png",
     "Design Patterns/Pattern Comportamentali/State.md",
     "Capitoli/Design Patterns.md",
     "Design Patterns/Pattern Strutturali/Decorator.md",
-    "Pasted image 20231120103603.png",
-    "Design Patterns/Pattern Strutturali/Proxy.md",
-    "Design Patterns/Pattern Strutturali/Adapter.md",
+    "Images/Pasted image 20231120103603.png",
     "Design Patterns/Pattern Creazionali/Abstract Factory.md",
     "Senza nome.md",
     "Design Patterns/Pattern Strutturali",
@@ -220,8 +209,6 @@
     "Caratteristiche del prodotto/Efficienza delle prestazioni.md",
     "SOLID",
     "Images/Schermata 2023-11-13 alle 01.36.30.png",
-    "Images/Schermata 2023-11-13 alle 01.36.15.png",
-    "Images/Schermata 2023-11-13 alle 01.35.46.png",
     "Viste/Vista Comportamentale",
     "Viste/Vista Logistica",
     "Viste/Vista Strutturale",
