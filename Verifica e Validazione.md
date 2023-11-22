@@ -20,3 +20,8 @@ Le 5 Domande da usare come guida sono:
 4. [[Come possiamo controllare la qualità delle relase successive]]
 5. [[Come può essere migliorato il processo di sviluppo]]
 
+La differenza tra Convalida e Verifica è che nella convalida ci chiediamo se stiamo costruendo il sistema che serve all'utente mentre nella verifica ci chiediamo se stiamo costruendo un sistema che rispetta le specifiche.
+
+![[Pasted image 20231122184717.png]]
+
+La terminologia IEEE che possiamo trovare in questa fase
