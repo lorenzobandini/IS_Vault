@@ -5,3 +5,18 @@ Esistono programmi che è possibile dimostrare corretti in tempo finito ma ne es
 Quindi non esiste alcun programma P che prende in input altri programmi e per ognuno di questi decide in tempo finito se è corretto o meno infatti non esiste un algoritmo che per ogni formula F in logica al primo ordine mi permetta di decidere in tempo finito se F è valida o meno ma esiste solo una formula che mi enumeri tutte le formule valide ma non è possibile in tempo finito arrivare a scrivere se F è valida o meno.
 
 Il software ha alcune caratteristiche che rendono la validazione e verifica particolarmente difficile:
+- Requisiti di qualità diversi
+- Il software è sempre in evoluzione
+- Distribuzione irregolare dei guasti
+- Non linearità
+- Nuovi approcci di sviluppo possono introdurre nuovi tipi di errori come deadlock o race conditions per software distribuito o problemi di polimorfismo o binding dinamico in software object-oriented
+
+I progettisti nella fase di verifica devono scegliere e programmare la giusta combinazione di tecniche per raggiungere il livello richiesto di qualità entro i limiti di costo e progettare una soluzione specifica che si adatti al problema, ai requisiti e all'ambiente di sviluppo senza poter contare su "ricette fisse".
+
+Le 5 Domande da usare come guida sono:
+1. [[Quando iniziare verifica e convalida e quando sono complete]]
+2. [[Quali tecniche applicare]]
+3. [[Come possiamo valutare se un prodotto è pronto per essere rilasciato]]
+4. [[Come possiamo controllare la qualità delle relase successive]]
+5. [[Come può essere migliorato il processo di sviluppo]]
+
