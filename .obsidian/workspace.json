@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f52ce8adea6b3be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verifica e Validazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "Verifica e Validazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md"
+                "file": "Verifica e Validazione.md"
               }
             }
           },
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "Verifica e Validazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +178,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5faf13b0e42015bc",
+  "active": "2f52ce8adea6b3be",
   "lastOpenFiles": [
+    "Indice.md",
+    "Verifica e Validazione.md",
     "Design Patterns/Pattern Strutturali/Proxy.md",
     "Images/Pasted image 20231120111347.png",
     "Images/Pasted image 20231120111330.png",
@@ -181,7 +196,6 @@
     "Design Patterns/Pattern Strutturali",
     "Design Patterns/Senza nome.canvas",
     "Design Patterns/Pattern Comportamentali/Strategy.md",
-    "Indice.md",
     "Capitoli/GoF.md",
     "Design Patterns/Pattern Creazionali/Singleton.md",
     "Images/Pasted image 20231113170607.png",

@@ -13,3 +13,4 @@
 13. [[Design Patterns]]
 14. [[GoF]]
 15. [[Evita l'ereditarietà se puoi]]
+16. [[Verifica e Validazione]]
