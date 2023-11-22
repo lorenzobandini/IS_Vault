@@ -24,4 +24,10 @@ La differenza tra Convalida e Verifica è che nella convalida ci chiediamo se st
 
 ![[Pasted image 20231122184717.png]]
 
-La terminologia IEEE che possiamo trovare in questa fase
+Alcune terminologie IEEE che possiamo trovare in questa fase sono:
+- Malfunzionamento: il sistema software a tempo di esecuzione non si comporta secondo le specifiche oppure c'è un malfunzionamento di natura dinamica visibile solo mediante esecuzione causato da un difetto
+- Difetto: è un difetto del codice cioè della struttura statica del programma e viene corretto con debug. Può essere latente se causa un malfunzionamento.
+- Errore: è la causa di un difetto ed è l'incomprensione umana nel tentativo di comprendere o risolvere un problema o nell'uso di strumenti
+
+Il testing è una tecnica di verifica ed è come le altre sottoposta al problema dell'indecidibilità. Una prova formale di correttezza corrisponde all'esecuzione del sistema con tutti i possibili input mentre un testing esaustivo è eseguire e provare ogni possibile input del programma ma ciò richiederebbe tempo infinito se gli input sono infiniti.
+Perciò il test di un programma può rilevare la presenza di difetti ma non dimostrarne l'assenza.
