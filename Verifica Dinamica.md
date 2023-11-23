@@ -1,6 +1,6 @@
 Anche chiamata testing, si compone in più fasi:
 1. [[Progettazione casi di test]]
-2. Esecuzione del codice
+2. [[Esecuzione del codice]]
 3. Analisi dei risultati
 4. Debugging
 
