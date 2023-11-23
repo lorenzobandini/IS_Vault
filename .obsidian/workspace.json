@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f52ce8adea6b3be",
+            "id": "e54f647bfc4e784e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +20,31 @@
             }
           },
           {
-            "id": "8dddada8a9015817",
+            "id": "3411a004cb67977a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verifica Statica.md",
+                "file": "Verifica Dinamica.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cdcc40eb998df7b5",
+            "id": "682eebe76e03e43b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desk-Check.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faeef0ee9b4fe688",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Walkthrough.md",
+                "file": "Progettazione casi di test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Walkthrough.md",
+                "file": "Progettazione casi di test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Walkthrough.md"
+                "file": "Progettazione casi di test.md"
               }
             }
           },
@@ -173,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Walkthrough.md",
+                "file": "Progettazione casi di test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,13 +190,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "faeef0ee9b4fe688",
+  "active": "682eebe76e03e43b",
   "lastOpenFiles": [
-    "Desk-Check.md",
-    "Walkthrough.md",
-    "Inspection.md",
-    "Verifica Statica.md",
+    "Verifica Dinamica.md",
+    "Progettazione casi di test.md",
     "Verifica e Validazione.md",
+    "Metodi Formali.md",
+    "Verifica Statica.md",
+    "Desk-Check.md",
+    "Inspection.md",
+    "Walkthrough.md",
     "Pasted image 20231122184717.png",
     "Come può essere migliorato il processo di sviluppo.md",
     "Come possiamo controllare la qualità delle relase successive.md",
@@ -239,12 +230,9 @@
     "Images/Pasted image 20231113162826.png",
     "Images/Pasted image 20231113161941.png",
     "Design Patterns/Pattern Creazionali/Factory Method.md",
-    "Design Patterns/Pattern Creazionali/Simple Factory.md",
     "Design Patterns/Pattern Creazionali",
     "Design Patterns/Pattern Comportamentali",
     "Design Patterns",
-    "Capitoli/Diagrammi di Sequenza.md",
-    "SOLID/Dependency Inversion Principle.md",
     "Principi di Progettazione",
     "Caratteristiche del prodotto",
     "SOLID",
