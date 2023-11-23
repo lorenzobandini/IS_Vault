@@ -2,4 +2,10 @@ Vengono eseguite delle batterie di prova, un insieme di casi di prova seguendo u
 
 Una procedura di prova consiste in:
 - Definire l'obiettivo della prova
-- Progettare la p
+- Progettare la prova con la scelta e definizione delle batterie
+- Realizzazione dell'ambiente di prova
+- Esecuzione della prova
+- Analisi dei risultati
+- Valutazione della prova
+
+Per realizzare l'ambiente di prova è ne
