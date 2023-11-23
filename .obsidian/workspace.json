@@ -32,19 +32,31 @@
             }
           },
           {
-            "id": "6458f72d41092467",
+            "id": "af20eeac750f97f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Esecuzione del codice.md",
+                "file": "Analisi dei risultati.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f074d327d93ad3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing Combinatorio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Esecuzione del codice.md",
+                "file": "Testing Combinatorio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Esecuzione del codice.md"
+                "file": "Testing Combinatorio.md"
               }
             }
           },
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Esecuzione del codice.md",
+                "file": "Testing Combinatorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +202,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6458f72d41092467",
+  "active": "6f074d327d93ad3f",
   "lastOpenFiles": [
+    "Analisi dei risultati.md",
+    "Testing Combinatorio.md",
     "Verifica Dinamica.md",
     "Esecuzione del codice.md",
     "Progettazione casi di test.md",
@@ -224,8 +238,6 @@
     "Design Patterns/Pattern Strutturali",
     "Design Patterns/Senza nome.canvas",
     "Design Patterns/Pattern Comportamentali/Strategy.md",
-    "Capitoli/GoF.md",
-    "Design Patterns/Pattern Creazionali/Singleton.md",
     "Images/Pasted image 20231113170607.png",
     "Images/Pasted image 20231113164406.png",
     "Images/Pasted image 20231113162826.png",

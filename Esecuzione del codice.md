@@ -8,4 +8,10 @@ Una procedura di prova consiste in:
 - Analisi dei risultati
 - Valutazione della prova
 
-Per realizzare l'ambiente di prova è ne
+Per realizzare l'ambiente di prova è necessario del codice aggiuntivo necessario per eseguire un test. Questa pratica si chiama **scaffolding** (impalcatura) per analogia alle strutture temporanee erette attorno ad un edificio durante la costruzione.
+Lo scaffolding può includere:
+- Driver di test: sostituiscono un programma principale o in chiamta
+- Stub: sostituiscono funzionalità chiamate o utilizzate dal software di prova
+- Test harness: sostituisce parti dell'ambiente di distribuzione
+- Tool per gestire l'esecuzione del test
+- Tool per registrare i risultati
