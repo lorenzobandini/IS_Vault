@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8dddada8a9015817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verifica Statica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdcc40eb998df7b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desk-Check.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faeef0ee9b4fe688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Walkthrough.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verifica e Validazione.md",
+                "file": "Walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verifica e Validazione.md"
+                "file": "Walkthrough.md"
               }
             }
           },
@@ -136,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verifica e Validazione.md",
+                "file": "Walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,11 +202,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f52ce8adea6b3be",
+  "active": "faeef0ee9b4fe688",
   "lastOpenFiles": [
+    "Desk-Check.md",
+    "Walkthrough.md",
+    "Inspection.md",
+    "Verifica Statica.md",
+    "Verifica e Validazione.md",
     "Pasted image 20231122184717.png",
     "Come può essere migliorato il processo di sviluppo.md",
-    "Verifica e Validazione.md",
     "Come possiamo controllare la qualità delle relase successive.md",
     "Come possiamo valutare se un prodotto è pronto per essere rilasciato.md",
     "Quali tecniche applicare.md",
@@ -202,12 +243,8 @@
     "Design Patterns/Pattern Creazionali",
     "Design Patterns/Pattern Comportamentali",
     "Design Patterns",
-    "Images/Pasted image 20231113124901.png",
     "Capitoli/Diagrammi di Sequenza.md",
     "SOLID/Dependency Inversion Principle.md",
-    "Capitoli/Evita l'ereditarietà se puoi.md",
-    "SOLID/SOLID.md",
-    "Principi di Progettazione/Astrazione.md",
     "Principi di Progettazione",
     "Caratteristiche del prodotto",
     "SOLID",

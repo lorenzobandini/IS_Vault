@@ -31,3 +31,7 @@ Alcune terminologie IEEE che possiamo trovare in questa fase sono:
 
 Il testing è una tecnica di verifica ed è come le altre sottoposta al problema dell'indecidibilità. Una prova formale di correttezza corrisponde all'esecuzione del sistema con tutti i possibili input mentre un testing esaustivo è eseguire e provare ogni possibile input del programma ma ciò richiederebbe tempo infinito se gli input sono infiniti.
 Perciò il test di un programma può rilevare la presenza di difetti ma non dimostrarne l'assenza.
+
+Per controllare gli errori utilizziamo delle tecniche di verifica che possono essere:
+- [[Verifica Statica]]
+- [[Verifica Dinamica]]
