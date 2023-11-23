@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5dd51e30bd3b2c2e",
+        "id": "82fec892a7eb1734",
         "type": "tabs",
         "children": [
           {
-            "id": "e54f647bfc4e784e",
+            "id": "8584145c08669982",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verifica e Validazione.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3411a004cb67977a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verifica Dinamica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af20eeac750f97f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisi dei risultati.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f074d327d93ad3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing Combinatorio.md",
+                "file": "Capitoli/Verifica e Validazione.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -132,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing Combinatorio.md",
+                "file": "Capitoli/Verifica e Validazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing Combinatorio.md"
+                "file": "Capitoli/Verifica e Validazione.md"
               }
             }
           },
@@ -173,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing Combinatorio.md",
+                "file": "Capitoli/Verifica e Validazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,28 +164,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f074d327d93ad3f",
+  "active": "b93f8041e669f8e8",
   "lastOpenFiles": [
-    "Analisi dei risultati.md",
-    "Testing Combinatorio.md",
-    "Verifica Dinamica.md",
-    "Esecuzione del codice.md",
-    "Progettazione casi di test.md",
-    "Verifica e Validazione.md",
-    "Metodi Formali.md",
-    "Verifica Statica.md",
-    "Desk-Check.md",
-    "Inspection.md",
-    "Walkthrough.md",
-    "Pasted image 20231122184717.png",
-    "Come può essere migliorato il processo di sviluppo.md",
-    "Come possiamo controllare la qualità delle relase successive.md",
-    "Come possiamo valutare se un prodotto è pronto per essere rilasciato.md",
-    "Quali tecniche applicare.md",
-    "Pasted image 20231122183814.png",
-    "Quando iniziare verifica e convalida e quando sono complete.md",
+    "Verifica e Validazione/Verifica Dinamica.md",
+    "Verifica e Validazione",
+    "Verifica e Validazione/Verifica Statica.md",
+    "Verifica e Validazione/Problema della Terminazione.md",
+    "Verifica e Validazione/Progettazione casi di test.md",
+    "Verifica e Validazione/Metodi Formali.md",
+    "Capitoli/Verifica e Validazione.md",
+    "Domande Guida Verifica e Validazione",
+    "Domande Guida Verifica e Validazione/Come possiamo valutare se un prodotto è pronto per essere rilasciato.md",
+    "Verifica e Validazione/Analisi dei risultati.md",
+    "Verifica e Validazione/Testing Combinatorio.md",
+    "Verifica e Validazione/Pairwise Testing.md",
+    "Verifica e Validazione/Vincoli.md",
+    "Verifica e Validazione/Esecuzione del codice.md",
+    "Verifica e Validazione/Desk-Check.md",
+    "Verifica e Validazione/Inspection.md",
+    "Verifica e Validazione/Walkthrough.md",
+    "Images/Pasted image 20231122184717.png",
+    "Domande Guida Verifica e Validazione/Come può essere migliorato il processo di sviluppo.md",
+    "Domande Guida Verifica e Validazione/Come possiamo controllare la qualità delle relase successive.md",
+    "Domande Guida Verifica e Validazione/Quali tecniche applicare.md",
+    "Images/Pasted image 20231122183814.png",
+    "Domande Guida Verifica e Validazione/Quando iniziare verifica e convalida e quando sono complete.md",
     "Indice.md",
-    "Problema della Terminazione.md",
     "Design Patterns/Pattern Strutturali/Proxy.md",
     "Images/Pasted image 20231120111347.png",
     "Images/Pasted image 20231120111330.png",
@@ -233,11 +199,8 @@
     "Capitoli/Design Patterns.md",
     "Design Patterns/Pattern Strutturali/Decorator.md",
     "Images/Pasted image 20231120103603.png",
-    "Design Patterns/Pattern Creazionali/Abstract Factory.md",
-    "Senza nome.md",
     "Design Patterns/Pattern Strutturali",
     "Design Patterns/Senza nome.canvas",
-    "Design Patterns/Pattern Comportamentali/Strategy.md",
     "Images/Pasted image 20231113170607.png",
     "Images/Pasted image 20231113164406.png",
     "Images/Pasted image 20231113162826.png",
@@ -249,8 +212,6 @@
     "Caratteristiche del prodotto",
     "SOLID",
     "Viste/Vista Comportamentale",
-    "Viste/Vista Logistica",
-    "Viste/Vista Strutturale",
     "Senza nome.canvas"
   ]
 }
