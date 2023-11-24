@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "82fec892a7eb1734",
+        "id": "331ffca899a4278d",
         "type": "tabs",
         "children": [
           {
-            "id": "8584145c08669982",
+            "id": "aa30cbc046a6d0e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitoli/Verifica e Validazione.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Verifica e Validazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Capitoli/Verifica e Validazione.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Verifica e Validazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,15 +156,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b93f8041e669f8e8",
+  "active": "aa30cbc046a6d0e2",
   "lastOpenFiles": [
+    "Viste/Vista Comportamentale/Publish-Subscribe.md",
+    "Capitoli/Verifica e Validazione.md",
     "Verifica e Validazione/Verifica Dinamica.md",
     "Verifica e Validazione",
     "Verifica e Validazione/Verifica Statica.md",
     "Verifica e Validazione/Problema della Terminazione.md",
     "Verifica e Validazione/Progettazione casi di test.md",
     "Verifica e Validazione/Metodi Formali.md",
-    "Capitoli/Verifica e Validazione.md",
     "Domande Guida Verifica e Validazione",
     "Domande Guida Verifica e Validazione/Come possiamo valutare se un prodotto è pronto per essere rilasciato.md",
     "Verifica e Validazione/Analisi dei risultati.md",
