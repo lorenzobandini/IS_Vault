@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "331ffca899a4278d",
+        "id": "ecf6c260f43b8122",
         "type": "tabs",
         "children": [
           {
-            "id": "aa30cbc046a6d0e2",
+            "id": "a8a9bc177ece722c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Capitoli/Diagrammi di Sequenza.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -52,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "analisi del dominio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -91,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Capitoli/Diagrammi di Sequenza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Capitoli/Diagrammi di Sequenza.md"
+              }
             }
           },
           {
@@ -129,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Capitoli/Diagrammi di Sequenza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,8 +164,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa30cbc046a6d0e2",
+  "active": "a8a9bc177ece722c",
   "lastOpenFiles": [
+    "diagramma.md",
+    "Indice.md",
+    "Images/Pasted image 20231120103603.png",
+    "Images/Pasted image 20231113170607.png",
+    "Images/Pasted image 20231113161941.png",
+    "Images/Pasted image 20231113162826.png",
+    "Images/Pasted image 20231113124901.png",
+    "Images/Pasted image 20231108181543.png",
+    "Images/Pasted image 20231108181921.png",
+    "Images/Pasted image 20231108175804.png",
+    "Images/Pasted image 20231108181243.png",
+    "Images/Pasted image 20231108164327.png",
+    "Fasi dell'Analisi dei Requisiti/Gestione.md",
+    "Capitoli/Analisi Requisiti.md",
+    "Capitoli/Diagramma di macchina a stati.md",
+    "Componenti UML/Diagramma delle classi.md",
+    "Capitoli/Diagramma dei casi d'uso.md",
     "Viste/Vista Comportamentale/Publish-Subscribe.md",
     "Capitoli/Verifica e Validazione.md",
     "Verifica e Validazione/Verifica Dinamica.md",
@@ -177,28 +201,11 @@
     "Verifica e Validazione/Desk-Check.md",
     "Verifica e Validazione/Inspection.md",
     "Verifica e Validazione/Walkthrough.md",
-    "Images/Pasted image 20231122184717.png",
     "Domande Guida Verifica e Validazione/Come può essere migliorato il processo di sviluppo.md",
     "Domande Guida Verifica e Validazione/Come possiamo controllare la qualità delle relase successive.md",
     "Domande Guida Verifica e Validazione/Quali tecniche applicare.md",
-    "Images/Pasted image 20231122183814.png",
-    "Domande Guida Verifica e Validazione/Quando iniziare verifica e convalida e quando sono complete.md",
-    "Indice.md",
-    "Design Patterns/Pattern Strutturali/Proxy.md",
-    "Images/Pasted image 20231120111347.png",
-    "Images/Pasted image 20231120111330.png",
-    "Design Patterns/Pattern Strutturali/Adapter.md",
-    "Images/Pasted image 20231120110332.png",
-    "Design Patterns/Pattern Comportamentali/State.md",
-    "Capitoli/Design Patterns.md",
-    "Design Patterns/Pattern Strutturali/Decorator.md",
-    "Images/Pasted image 20231120103603.png",
     "Design Patterns/Pattern Strutturali",
     "Design Patterns/Senza nome.canvas",
-    "Images/Pasted image 20231113170607.png",
-    "Images/Pasted image 20231113164406.png",
-    "Images/Pasted image 20231113162826.png",
-    "Images/Pasted image 20231113161941.png",
     "Design Patterns/Pattern Creazionali",
     "Design Patterns/Pattern Comportamentali",
     "Design Patterns",
