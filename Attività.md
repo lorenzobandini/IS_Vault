@@ -46,3 +46,13 @@ O per l'accettazione di evento temporale:
 
 ![[Pasted image 20231127155938.png]]
 
+Per accettare evento esterno e per accettare eventi temporali, non c'è bisogno di un arco entrante.
+Se assente, quando si verifica l’evento, si genera un token mentre se presente, l’azione è abilitata quando arriva il token e si attende l’evento esterno per farlo transitare.
+
+Si usa un'azione quando è effettuata dall'entità o dall'insieme di entità in cui si sta descrivendo il comportamento.
+Usare l'accettazione di eventi esterni o invio segnali quando si comunica con una entità esterna.
+
+Un diagramma può contenere un riferimento a un'attività secondaria.
+
+Le partizioni permettono di assegnare la responsabilità alle azioni.
+Una partizione spesso corrisponde alla divisione in unità operative in un modello di business.
