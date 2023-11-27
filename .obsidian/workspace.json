@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ecf6c260f43b8122",
+        "id": "b2977e6e65fa9e20",
         "type": "tabs",
         "children": [
           {
-            "id": "a8a9bc177ece722c",
+            "id": "d339ad3e6fbb41bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/Diagrammi di Sequenza.md",
+                "file": "Capitoli/Diagramma di macchina a stati.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "analisi del dominio",
+                "query": "attivit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Diagrammi di Sequenza.md",
+                "file": "Capitoli/Diagramma di macchina a stati.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/Diagrammi di Sequenza.md"
+                "file": "Capitoli/Diagramma di macchina a stati.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Diagrammi di Sequenza.md",
+                "file": "Capitoli/Diagramma di macchina a stati.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,10 +164,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8a9bc177ece722c",
+  "active": "d339ad3e6fbb41bc",
   "lastOpenFiles": [
-    "diagramma.md",
+    "Domande Guida Verifica e Validazione/Come possiamo valutare se un prodotto è pronto per essere rilasciato.md",
+    "Domande Guida Verifica e Validazione/Come possiamo controllare la qualità delle relase successive.md",
+    "Capitoli/Analisi Requisiti.md",
+    "Capitoli/Diagramma dei casi d'uso.md",
     "Indice.md",
+    "Capitoli/Diagramma di macchina a stati.md",
+    "Capitoli/Diagrammi di Sequenza.md",
+    "diagramma.md",
     "Images/Pasted image 20231120103603.png",
     "Images/Pasted image 20231113170607.png",
     "Images/Pasted image 20231113161941.png",
@@ -179,10 +185,7 @@
     "Images/Pasted image 20231108181243.png",
     "Images/Pasted image 20231108164327.png",
     "Fasi dell'Analisi dei Requisiti/Gestione.md",
-    "Capitoli/Analisi Requisiti.md",
-    "Capitoli/Diagramma di macchina a stati.md",
     "Componenti UML/Diagramma delle classi.md",
-    "Capitoli/Diagramma dei casi d'uso.md",
     "Viste/Vista Comportamentale/Publish-Subscribe.md",
     "Capitoli/Verifica e Validazione.md",
     "Verifica e Validazione/Verifica Dinamica.md",
@@ -192,7 +195,6 @@
     "Verifica e Validazione/Progettazione casi di test.md",
     "Verifica e Validazione/Metodi Formali.md",
     "Domande Guida Verifica e Validazione",
-    "Domande Guida Verifica e Validazione/Come possiamo valutare se un prodotto è pronto per essere rilasciato.md",
     "Verifica e Validazione/Analisi dei risultati.md",
     "Verifica e Validazione/Testing Combinatorio.md",
     "Verifica e Validazione/Pairwise Testing.md",
@@ -202,8 +204,6 @@
     "Verifica e Validazione/Inspection.md",
     "Verifica e Validazione/Walkthrough.md",
     "Domande Guida Verifica e Validazione/Come può essere migliorato il processo di sviluppo.md",
-    "Domande Guida Verifica e Validazione/Come possiamo controllare la qualità delle relase successive.md",
-    "Domande Guida Verifica e Validazione/Quali tecniche applicare.md",
     "Design Patterns/Pattern Strutturali",
     "Design Patterns/Senza nome.canvas",
     "Design Patterns/Pattern Creazionali",
