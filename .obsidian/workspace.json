@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/Diagramma di macchina a stati.md",
+                "file": "Design Patterns/Pattern Strutturali/Proxy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c3fc4e5c8b0558b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Pattern Comportamentali/Strategy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "attivit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +87,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Diagramma di macchina a stati.md",
+                "file": "Design Patterns/Pattern Comportamentali/Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/Diagramma di macchina a stati.md"
+                "file": "Design Patterns/Pattern Comportamentali/Strategy.md"
               }
             }
           },
@@ -135,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Diagramma di macchina a stati.md",
+                "file": "Design Patterns/Pattern Comportamentali/Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,15 +178,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d339ad3e6fbb41bc",
+  "active": "6c3fc4e5c8b0558b",
   "lastOpenFiles": [
+    "Capitoli/Diagrammi di Sequenza.md",
+    "Design Patterns/Pattern Strutturali/Proxy.md",
+    "Design Patterns/Pattern Strutturali/Adapter.md",
+    "Viste/Vista Comportamentale/Vista Comportamentale.md",
+    "Indice.md",
+    "Capitoli/Diagramma di macchina a stati.md",
     "Domande Guida Verifica e Validazione/Come possiamo valutare se un prodotto è pronto per essere rilasciato.md",
     "Domande Guida Verifica e Validazione/Come possiamo controllare la qualità delle relase successive.md",
     "Capitoli/Analisi Requisiti.md",
     "Capitoli/Diagramma dei casi d'uso.md",
-    "Indice.md",
-    "Capitoli/Diagramma di macchina a stati.md",
-    "Capitoli/Diagrammi di Sequenza.md",
     "diagramma.md",
     "Images/Pasted image 20231120103603.png",
     "Images/Pasted image 20231113170607.png",
@@ -201,9 +218,6 @@
     "Verifica e Validazione/Vincoli.md",
     "Verifica e Validazione/Esecuzione del codice.md",
     "Verifica e Validazione/Desk-Check.md",
-    "Verifica e Validazione/Inspection.md",
-    "Verifica e Validazione/Walkthrough.md",
-    "Domande Guida Verifica e Validazione/Come può essere migliorato il processo di sviluppo.md",
     "Design Patterns/Pattern Strutturali",
     "Design Patterns/Senza nome.canvas",
     "Design Patterns/Pattern Creazionali",
