@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "02f6786eac0bfe7d",
+        "id": "9341b975ea3053f5",
         "type": "tabs",
         "children": [
           {
-            "id": "140d1a88e2ae3be3",
+            "id": "86f649ff52a04e62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verifica e Validazione/Testing Combinatorio.md",
+                "file": "Capitoli/UML.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "240f524a844d1387",
+            "id": "b8c1a19c9aaaac4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verifica e Validazione/Pairwise Testing.md",
+                "file": "Viste/Vista Strutturale/Vista Strutturale.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verifica e Validazione/Pairwise Testing.md",
+                "file": "Viste/Vista Strutturale/Vista Strutturale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verifica e Validazione/Pairwise Testing.md"
+                "file": "Viste/Vista Strutturale/Vista Strutturale.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verifica e Validazione/Pairwise Testing.md",
+                "file": "Viste/Vista Strutturale/Vista Strutturale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,25 +178,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "240f524a844d1387",
+  "active": "76eb7c4945d78c70",
   "lastOpenFiles": [
+    "Viste/Vista Logistica/Vista Logistica.md",
+    "Capitoli/Qualità del Prodotto.md",
+    "Indice.md",
+    "Capitoli/UML.md",
+    "Componenti UML/Diagramma delle classi.md",
+    "Definizioni/Casi d'uso.md",
+    "Capitoli/Architetture Software.md",
+    "Viste/Vista Comportamentale/Vista Comportamentale.md",
+    "Capitoli/Design Patterns.md",
+    "Capitoli/Diagramma dei casi d'uso.md",
+    "Capitoli/Analisi Requisiti.md",
     "Verifica e Validazione/Testing Combinatorio.md",
     "Verifica e Validazione/Pairwise Testing.md",
     "Verifica e Validazione/Vincoli.md",
     "Verifica e Validazione/Analisi dei risultati.md",
     "Verifica e Validazione/Verifica Dinamica.md",
     "Capitoli/Verifica e Validazione.md",
-    "Indice.md",
     "Design Patterns/Pattern Comportamentali/Strategy.md",
     "Design Patterns/Pattern Strutturali/Proxy.md",
     "Capitoli/Diagrammi di Sequenza.md",
     "Design Patterns/Pattern Strutturali/Adapter.md",
-    "Viste/Vista Comportamentale/Vista Comportamentale.md",
     "Capitoli/Diagramma di macchina a stati.md",
     "Domande Guida Verifica e Validazione/Come possiamo valutare se un prodotto è pronto per essere rilasciato.md",
     "Domande Guida Verifica e Validazione/Come possiamo controllare la qualità delle relase successive.md",
-    "Capitoli/Analisi Requisiti.md",
-    "Capitoli/Diagramma dei casi d'uso.md",
     "diagramma.md",
     "Images/Pasted image 20231120103603.png",
     "Images/Pasted image 20231113170607.png",
@@ -209,15 +216,8 @@
     "Images/Pasted image 20231108181243.png",
     "Images/Pasted image 20231108164327.png",
     "Fasi dell'Analisi dei Requisiti/Gestione.md",
-    "Componenti UML/Diagramma delle classi.md",
-    "Viste/Vista Comportamentale/Publish-Subscribe.md",
     "Verifica e Validazione",
-    "Verifica e Validazione/Verifica Statica.md",
-    "Verifica e Validazione/Problema della Terminazione.md",
-    "Verifica e Validazione/Progettazione casi di test.md",
-    "Verifica e Validazione/Metodi Formali.md",
     "Domande Guida Verifica e Validazione",
-    "Verifica e Validazione/Esecuzione del codice.md",
     "Design Patterns/Pattern Strutturali",
     "Design Patterns/Senza nome.canvas",
     "Design Patterns/Pattern Creazionali",
