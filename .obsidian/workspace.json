@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b2977e6e65fa9e20",
+        "id": "02f6786eac0bfe7d",
         "type": "tabs",
         "children": [
           {
-            "id": "d339ad3e6fbb41bc",
+            "id": "140d1a88e2ae3be3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Pattern Strutturali/Proxy.md",
+                "file": "Verifica e Validazione/Testing Combinatorio.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6c3fc4e5c8b0558b",
+            "id": "240f524a844d1387",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Pattern Comportamentali/Strategy.md",
+                "file": "Verifica e Validazione/Pairwise Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Pattern Comportamentali/Strategy.md",
+                "file": "Verifica e Validazione/Pairwise Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Pattern Comportamentali/Strategy.md"
+                "file": "Verifica e Validazione/Pairwise Testing.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Pattern Comportamentali/Strategy.md",
+                "file": "Verifica e Validazione/Pairwise Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,13 +178,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c3fc4e5c8b0558b",
+  "active": "240f524a844d1387",
   "lastOpenFiles": [
-    "Capitoli/Diagrammi di Sequenza.md",
+    "Verifica e Validazione/Testing Combinatorio.md",
+    "Verifica e Validazione/Pairwise Testing.md",
+    "Verifica e Validazione/Vincoli.md",
+    "Verifica e Validazione/Analisi dei risultati.md",
+    "Verifica e Validazione/Verifica Dinamica.md",
+    "Capitoli/Verifica e Validazione.md",
+    "Indice.md",
+    "Design Patterns/Pattern Comportamentali/Strategy.md",
     "Design Patterns/Pattern Strutturali/Proxy.md",
+    "Capitoli/Diagrammi di Sequenza.md",
     "Design Patterns/Pattern Strutturali/Adapter.md",
     "Viste/Vista Comportamentale/Vista Comportamentale.md",
-    "Indice.md",
     "Capitoli/Diagramma di macchina a stati.md",
     "Domande Guida Verifica e Validazione/Come possiamo valutare se un prodotto è pronto per essere rilasciato.md",
     "Domande Guida Verifica e Validazione/Come possiamo controllare la qualità delle relase successive.md",
@@ -204,20 +211,13 @@
     "Fasi dell'Analisi dei Requisiti/Gestione.md",
     "Componenti UML/Diagramma delle classi.md",
     "Viste/Vista Comportamentale/Publish-Subscribe.md",
-    "Capitoli/Verifica e Validazione.md",
-    "Verifica e Validazione/Verifica Dinamica.md",
     "Verifica e Validazione",
     "Verifica e Validazione/Verifica Statica.md",
     "Verifica e Validazione/Problema della Terminazione.md",
     "Verifica e Validazione/Progettazione casi di test.md",
     "Verifica e Validazione/Metodi Formali.md",
     "Domande Guida Verifica e Validazione",
-    "Verifica e Validazione/Analisi dei risultati.md",
-    "Verifica e Validazione/Testing Combinatorio.md",
-    "Verifica e Validazione/Pairwise Testing.md",
-    "Verifica e Validazione/Vincoli.md",
     "Verifica e Validazione/Esecuzione del codice.md",
-    "Verifica e Validazione/Desk-Check.md",
     "Design Patterns/Pattern Strutturali",
     "Design Patterns/Senza nome.canvas",
     "Design Patterns/Pattern Creazionali",
