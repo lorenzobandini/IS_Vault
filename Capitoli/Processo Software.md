@@ -1,9 +1,9 @@
 Il modo in cui produciamo il software inizia quando iniziamo a esplorare il problema e finisce quando il prodotto viene ritirato dal mercato.
 
 Fasi:
-- Analisi dei requisiti
-- Specifica
-- Progettazione
+- [[Analisi Requisiti]]
+- [[Specificità del software|Specifiche]]
+- [[Principi di Progettazione|Progettazione]]
 - Implementazione
 - Integrazione
 - Mantenimento

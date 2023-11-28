@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a458b62a2b822163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitoli/Processo Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e55b6295fb3ad9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitoli/Principi di Progettazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "Capitoli/Principi di Progettazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md"
+                "file": "Capitoli/Principi di Progettazione.md"
               }
             }
           },
@@ -136,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "Capitoli/Principi di Progettazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,43 +190,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0980f6d50b884c6",
+  "active": "1e55b6295fb3ad9a",
   "lastOpenFiles": [
-    "Diagramma delle attività.md",
-    "Attività.md",
-    "Pasted image 20231127155938.png",
-    "Pasted image 20231127155915.png",
-    "Pasted image 20231127155857.png",
-    "Pasted image 20231127155732.png",
-    "Pasted image 20231127155630.png",
-    "Pasted image 20231127154344.png",
-    "Pasted image 20231127154148.png",
+    "Capitoli/Processo Software.md",
+    "Indice.md",
+    "Capitoli/Principi di Progettazione.md",
+    "Capitoli/Specificità del software.md",
+    "Capitoli/Analisi Requisiti.md",
+    "Fasi dell'Analisi dei Requisiti/Studio di Fattibilità.md",
+    "Capitoli/Modelli di ciclo di vita.md",
+    "Capitoli/Nascita del termine IS.md",
+    "Fasi dell'Analisi dei Requisiti/Convalida.md",
+    "Fasi dell'Analisi dei Requisiti/Elaborazione.md",
+    "Fasi dell'Analisi dei Requisiti/Acquisizione.md",
+    "Capitoli/Diagrammi di Sequenza.md",
+    "Capitoli/Architetture Software.md",
+    "Capitoli/UML.md",
+    "Capitoli/Diagramma dei casi d'uso.md",
+    "Capitoli/Diagramma delle attività.md",
+    "Definizioni/Attività.md",
+    "Images/Pasted image 20231127155938.png",
+    "Images/Pasted image 20231127155915.png",
+    "Images/Pasted image 20231127155857.png",
+    "Images/Pasted image 20231127155732.png",
+    "Images/Pasted image 20231127155630.png",
+    "Images/Pasted image 20231127154344.png",
+    "Images/Pasted image 20231127154148.png",
     "Macchina a Stati/Transizioni.md",
     "trans.md",
-    "Pasted image 20231127153853.png",
-    "Pasted image 20231127153848.png",
-    "Pasted image 20231127153815.png",
-    "Indice.md",
+    "Images/Pasted image 20231127153853.png",
+    "Images/Pasted image 20231127153848.png",
+    "Images/Pasted image 20231127153815.png",
     "Macchina a Stati/Decisione.md",
     "Viste/Vista Strutturale/Vista Strutturale.md",
-    "Capitoli/UML.md",
     "Capitoli/Diagramma di macchina a stati.md",
     "Viste/Vista Logistica/Vista Logistica.md",
     "Capitoli/Qualità del Prodotto.md",
     "Componenti UML/Diagramma delle classi.md",
     "Definizioni/Casi d'uso.md",
-    "Capitoli/Architetture Software.md",
-    "Viste/Vista Comportamentale/Vista Comportamentale.md",
-    "Capitoli/Design Patterns.md",
-    "Capitoli/Diagramma dei casi d'uso.md",
-    "Capitoli/Analisi Requisiti.md",
-    "Verifica e Validazione/Testing Combinatorio.md",
-    "Verifica e Validazione/Pairwise Testing.md",
-    "Verifica e Validazione/Vincoli.md",
-    "Verifica e Validazione/Analisi dei risultati.md",
-    "Verifica e Validazione/Verifica Dinamica.md",
-    "Capitoli/Verifica e Validazione.md",
-    "Design Patterns/Pattern Comportamentali/Strategy.md",
     "Verifica e Validazione",
     "Domande Guida Verifica e Validazione",
     "Design Patterns/Pattern Strutturali",
