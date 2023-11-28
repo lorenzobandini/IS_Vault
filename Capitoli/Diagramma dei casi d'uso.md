@@ -2,7 +2,7 @@ Descrive i contenuti funzionali del sistema catturando le funzionalità che esso
 Compongono i diagrammi d'uso:
 - [[Attore]]
 - [[Casi d'uso]]
--  [[Scenario]] o Relazioni
+- [[Scenario]] o Relazioni
 - Confine del sistema per indicare il confine del sistema oggetto dal modello
 
 ![[Pasted image 20230928181249.png]]
