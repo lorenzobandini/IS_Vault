@@ -20,7 +20,7 @@ Gli stati composti possono essere:
 - Parallelo: sottostanti attivi contemporaneamente, uno per regione ![[Immagine 2023-10-09 102401.png]]
 
 Quando si vuole descrivere uno stato composito in un diagramma a parte per definirlo e riusarlo in più contesti, si usano delle sottomacchine che hanno il loro tipo.
-Le sue istanze si indicano con nomeIstanza: Tipo
+Le sue istanze si indicano con `nomeIstanza: Tipo`
 
 ![[Pasted image 20231016113738.png]]
 

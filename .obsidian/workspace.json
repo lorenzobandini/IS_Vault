@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/Diagramma delle classi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3fcace20e6ef336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitoli/Diagramma delle classi.md",
+                "file": "Capitoli/Diagramma di macchina a stati.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -106,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Diagramma delle classi.md",
+                "file": "Capitoli/Diagramma di macchina a stati.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/Diagramma delle classi.md"
+                "file": "Capitoli/Diagramma di macchina a stati.md"
               }
             }
           },
@@ -147,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Diagramma delle classi.md",
+                "file": "Capitoli/Diagramma di macchina a stati.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,8 +167,8 @@
   },
   "active": "5ceb933ab71da57f",
   "lastOpenFiles": [
-    "Componenti UML/Classi di analisi del dominio.md",
     "Capitoli/Diagramma delle classi.md",
+    "Componenti UML/Classi di analisi del dominio.md",
     "Componenti UML/Enumerazioni.md",
     "Componenti UML/Classe Associazione.md",
     "Componenti UML/Classe Interfaccia.md",
