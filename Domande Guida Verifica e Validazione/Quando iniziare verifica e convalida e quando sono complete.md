@@ -1,7 +1,7 @@
 Il testing non è una fase finale dello sviluppo software. L'esecuzione dei test è solo una piccola parte del processo di verifica e convalida.
 Il processo di verifica e convalida inizia non appena decidiamo di creare un prodotto software e durano molto oltre la consegna dei prodotti, per tutto il tempo in cui il software è in uso per far fronte alle evoluzioni e agli adattamenti alle nuove condizioni.
 
-La verifica e convalida inizia con lo studio di fattibilità che tiene conto delle qualità richieste e dell'impatto sul costo complessivo.
+La verifica e convalida inizia con lo [[Studio di fattibilità]] che tiene conto delle qualità richieste e dell'impatto sul costo complessivo.
 
 In questa fase, le attività correlate alla qualità comprendono:
 - Analisi del rischio
