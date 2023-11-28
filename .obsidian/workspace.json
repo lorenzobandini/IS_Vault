@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b81b8f6d0f491f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diagramma delle attività.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a7661c831d36dcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attività.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attività.md",
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attività.md"
+                "file": "Indice.md"
               }
             }
           },
@@ -161,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attività.md",
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a7661c831d36dcb",
+  "active": "b0980f6d50b884c6",
   "lastOpenFiles": [
     "Diagramma delle attività.md",
     "Attività.md",
