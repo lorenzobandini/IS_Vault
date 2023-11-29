@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fefdf92abe31a2d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definizioni/Attività.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Diagramma delle attività.md",
+                "file": "Definizioni/Attività.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/Diagramma delle attività.md"
+                "file": "Definizioni/Attività.md"
               }
             }
           },
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Diagramma delle attività.md",
+                "file": "Definizioni/Attività.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,10 +177,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ceb933ab71da57f",
+  "active": "fefdf92abe31a2d2",
   "lastOpenFiles": [
-    "Capitoli/Diagrammi di Sequenza.md",
     "Capitoli/Diagramma delle attività.md",
+    "Capitoli/Diagrammi di Sequenza.md",
     "Capitoli/Principi di Progettazione.md",
     "SOLID/SOLID.md",
     "Indice.md",
