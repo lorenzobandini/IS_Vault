@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/Principi di Progettazione.md",
+                "file": "Capitoli/Diagramma delle attività.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Principi di Progettazione.md",
+                "file": "Capitoli/Diagramma delle attività.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/Principi di Progettazione.md"
+                "file": "Capitoli/Diagramma delle attività.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Principi di Progettazione.md",
+                "file": "Capitoli/Diagramma delle attività.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,11 +164,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f70da804dcb1dd6",
+  "active": "5ceb933ab71da57f",
   "lastOpenFiles": [
+    "Capitoli/Diagrammi di Sequenza.md",
+    "Capitoli/Diagramma delle attività.md",
+    "Capitoli/Principi di Progettazione.md",
     "SOLID/SOLID.md",
     "Indice.md",
-    "Capitoli/Diagramma delle attività.md",
     "Capitoli/Diagramma di macchina a stati.md",
     "Capitoli/Diagramma delle classi.md",
     "Componenti UML/Classi di analisi del dominio.md",
@@ -189,8 +192,6 @@
     "Viste/Vista Logistica/Vista Logistica.md",
     "Capitoli/Processo Software.md",
     "Capitoli/Analisi Requisiti.md",
-    "Definizioni/Dominio.md",
-    "Design Patterns/Pattern Comportamentali/State.md",
     "Images/Pasted image 20231127155938.png",
     "Images/Pasted image 20231127155915.png",
     "Images/Pasted image 20231127155857.png",
