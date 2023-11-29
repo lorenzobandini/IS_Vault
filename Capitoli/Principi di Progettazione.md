@@ -11,7 +11,7 @@ Si hanno vantaggi con sistemi che esibiscono un alto grado di coesione e un bass
 - Ridotta interazione fra sottoinsiemi
 - Miglior comprensione del sistema
 - Garantire un alto grado di coesione normalmente riduce il grado di accoppiamento
-
+ 
 Le collezioni di principi per la progettazione Object-Oriented che sono noti in letteratura sono:
 1. [[SOLID]]
 2. [[GRASP]]
