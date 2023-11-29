@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/Diagramma di macchina a stati.md",
+                "file": "Capitoli/Principi di Progettazione.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Diagramma di macchina a stati.md",
+                "file": "Capitoli/Principi di Progettazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/Diagramma di macchina a stati.md"
+                "file": "Capitoli/Principi di Progettazione.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Diagramma di macchina a stati.md",
+                "file": "Capitoli/Principi di Progettazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,8 +146,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,15 +163,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ceb933ab71da57f",
+  "active": "1f70da804dcb1dd6",
   "lastOpenFiles": [
+    "SOLID/SOLID.md",
+    "Indice.md",
+    "Capitoli/Diagramma delle attività.md",
+    "Capitoli/Diagramma di macchina a stati.md",
     "Capitoli/Diagramma delle classi.md",
     "Componenti UML/Classi di analisi del dominio.md",
     "Componenti UML/Enumerazioni.md",
     "Componenti UML/Classe Associazione.md",
     "Componenti UML/Classe Interfaccia.md",
     "Componenti UML/Classe Astratte.md",
-    "Indice.md",
     "Capitoli/UML.md",
     "Caratteristiche del prodotto/Manutenibilità.md",
     "Capitoli/Diagramma dei casi d'uso.md",
@@ -190,9 +191,6 @@
     "Capitoli/Analisi Requisiti.md",
     "Definizioni/Dominio.md",
     "Design Patterns/Pattern Comportamentali/State.md",
-    "Definizioni/Analisi dello Standish Group.md",
-    "Definizioni/Stakeholders.md",
-    "Fasi dell'Analisi dei Requisiti/Studio di Fattibilità.md",
     "Images/Pasted image 20231127155938.png",
     "Images/Pasted image 20231127155915.png",
     "Images/Pasted image 20231127155857.png",
