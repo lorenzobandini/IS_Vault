@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/Diagramma delle attività.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fefdf92abe31a2d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definizioni/Attività.md",
+                "file": "Capitoli/Diagrammi di Sequenza.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/Attività.md",
+                "file": "Capitoli/Diagrammi di Sequenza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/Attività.md"
+                "file": "Capitoli/Diagrammi di Sequenza.md"
               }
             }
           },
@@ -149,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/Attività.md",
+                "file": "Capitoli/Diagrammi di Sequenza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,9 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fefdf92abe31a2d2",
+  "active": "5ceb933ab71da57f",
   "lastOpenFiles": [
     "Capitoli/Diagramma delle attività.md",
+    "Definizioni/Attività.md",
     "Capitoli/Diagrammi di Sequenza.md",
     "Capitoli/Principi di Progettazione.md",
     "SOLID/SOLID.md",
@@ -204,7 +192,6 @@
     "Viste/Vista Comportamentale/Peer-to-Peer.md",
     "Viste/Vista Logistica/Vista Logistica.md",
     "Capitoli/Processo Software.md",
-    "Capitoli/Analisi Requisiti.md",
     "Images/Pasted image 20231127155938.png",
     "Images/Pasted image 20231127155915.png",
     "Images/Pasted image 20231127155857.png",
