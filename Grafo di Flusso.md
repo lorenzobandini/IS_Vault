@@ -9,4 +9,5 @@ La copertura non è monotona rispetto alla dimensione dell'insieme di test e sol
 
 Un insieme di test $T$ per un programma $P$ copre tutte le condizioni semplici di $P$ se, per ogni condizione semplice $CS$ in $P$, $T$ contiene un test in cui $CS$ vale `true` e un test in cui $CS$ vale `false`.
 La copertura delle condizioni semplici $CS$ viene calcolata con:$$\text{Copertura delle Condizioni Semplici}=\frac{\text{n° di valori di verità assunti nelle Condizioni Semplici}}{2\cdot \text{n° di Condizioni Semplici}}$$
-La 
+La copertura dei cammini richiede di percorrere tutti i cammini, numero che cresce in modo esponenziale con le decisioni e può essere potenzialmente infinito con cammini ciclici.
+Per limitare il numero di cammini da attraversare si richiedano casi di test che esercitino il ciclo 0 volte, esattamente una volta o più di una volta.

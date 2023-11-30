@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ceb933ab71da57f",
+            "id": "cf7cfdb1288e77d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/Verifica e Validazione.md",
+                "file": "Verifica e Validazione/Verifica Dinamica.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "9fc67d2a891bc237",
+            "id": "c6f42afa613f0337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criteri White Box.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0c5486d9012ff28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grafo di Flusso.md",
+                "file": "Criteri Black Box.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grafo di Flusso.md",
+                "file": "Criteri Black Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grafo di Flusso.md"
+                "file": "Criteri Black Box.md"
               }
             }
           },
@@ -173,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grafo di Flusso.md",
+                "file": "Criteri Black Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,15 +189,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0c5486d9012ff28",
+  "active": "c6f42afa613f0337",
   "lastOpenFiles": [
-    "Pasted image 20231130182012.png",
+    "Verifica e Validazione/Progettazione casi di test.md",
+    "Criteri Black Box.md",
+    "Verifica e Validazione/Verifica Dinamica.md",
+    "Verifica e Validazione/Analisi dei risultati.md",
+    "Verifica e Validazione/Esecuzione del codice.md",
+    "Capitoli/Verifica e Validazione.md",
     "Criteri White Box.md",
     "Grafo di Flusso.md",
-    "Verifica e Validazione/Progettazione casi di test.md",
-    "Capitoli/Verifica e Validazione.md",
-    "Verifica e Validazione/Analisi dei risultati.md",
-    "Verifica e Validazione/Verifica Dinamica.md",
+    "Pasted image 20231130182012.png",
     "Indice.md",
     "Capitoli/Diagrammi di Sequenza.md",
     "Capitoli/Diagramma delle attività.md",
@@ -228,7 +218,6 @@
     "Capitoli/Diagramma dei casi d'uso.md",
     "Definizioni/Scenario.md",
     "Definizioni/Casi d'uso.md",
-    "Definizioni/Attore.md",
     "Images/Pasted image 20231127155938.png",
     "Images/Pasted image 20231127155915.png",
     "Images/Pasted image 20231127155857.png",
@@ -238,7 +227,6 @@
     "Images/Pasted image 20231127154148.png",
     "Images/Pasted image 20231127153853.png",
     "Images/Pasted image 20231127153848.png",
-    "Images/Pasted image 20231127153815.png",
     "Verifica e Validazione",
     "Domande Guida Verifica e Validazione",
     "Design Patterns/Pattern Strutturali",
