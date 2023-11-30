@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0c5486d9012ff28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grafo di Flusso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Criteri White Box.md",
+                "file": "Grafo di Flusso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Criteri White Box.md"
+                "file": "Grafo di Flusso.md"
               }
             }
           },
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Criteri White Box.md",
+                "file": "Grafo di Flusso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,10 +201,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b93f8041e669f8e8",
+  "active": "c0c5486d9012ff28",
   "lastOpenFiles": [
-    "Verifica e Validazione/Progettazione casi di test.md",
+    "Pasted image 20231130182012.png",
     "Criteri White Box.md",
+    "Grafo di Flusso.md",
+    "Verifica e Validazione/Progettazione casi di test.md",
     "Capitoli/Verifica e Validazione.md",
     "Verifica e Validazione/Analisi dei risultati.md",
     "Verifica e Validazione/Verifica Dinamica.md",
@@ -215,8 +229,6 @@
     "Definizioni/Scenario.md",
     "Definizioni/Casi d'uso.md",
     "Definizioni/Attore.md",
-    "Definizioni/Narrativa di un caso d'uso.md",
-    "Design Patterns/Pattern Creazionali/Singleton.md",
     "Images/Pasted image 20231127155938.png",
     "Images/Pasted image 20231127155915.png",
     "Images/Pasted image 20231127155857.png",
