@@ -11,4 +11,4 @@ Possiamo definire le test obligation:
 - Dalle funzionalità (a scatola chiusa, [[Criteri Black Box]]) guardando la specifica del software
 - Dalla struttura (a scatola aperta, [[Criteri White Box]]) guardando il codice
 - Dal modello del programma
-- Da fault ipotetici
+- Da [[Test su Fault Ipotetici]]

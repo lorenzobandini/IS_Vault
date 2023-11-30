@@ -32,19 +32,31 @@
             }
           },
           {
-            "id": "c6f42afa613f0337",
+            "id": "6dfc8831fcf9e782",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criteri Black Box.md",
+                "file": "Test su Fault Ipotetici.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fb6f6c2e2a55158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Mutazionale.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Criteri Black Box.md",
+                "file": "Test Mutazionale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Criteri Black Box.md"
+                "file": "Test Mutazionale.md"
               }
             }
           },
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Criteri Black Box.md",
+                "file": "Test Mutazionale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,8 +201,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c6f42afa613f0337",
+  "active": "8fb6f6c2e2a55158",
   "lastOpenFiles": [
+    "Test su Fault Ipotetici.md",
+    "Test Mutazionale.md",
     "Verifica e Validazione/Progettazione casi di test.md",
     "Criteri Black Box.md",
     "Verifica e Validazione/Verifica Dinamica.md",
@@ -216,8 +230,6 @@
     "Capitoli/UML.md",
     "Caratteristiche del prodotto/Manutenibilità.md",
     "Capitoli/Diagramma dei casi d'uso.md",
-    "Definizioni/Scenario.md",
-    "Definizioni/Casi d'uso.md",
     "Images/Pasted image 20231127155938.png",
     "Images/Pasted image 20231127155915.png",
     "Images/Pasted image 20231127155857.png",
