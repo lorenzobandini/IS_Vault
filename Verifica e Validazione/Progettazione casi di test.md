@@ -8,7 +8,7 @@ Un insieme di test soddisfa un criterio di adeguatezza se:
 - Ogni test obligation è soddisfatta da almeno un caso di test
 
 Possiamo definire le test obligation:
-- Dalle funzionalità (a scatola chiusa, black box) guardando la specifica del software
-- Dalla struttura (a scatola aperta, white box) guardando il codice
+- Dalle funzionalità (a scatola chiusa, criteri black box) guardando la specifica del software
+- Dalla struttura (a scatola aperta, [[Criteri White Box]]) guardando il codice
 - Dal modello del programma
 - Da fault ipotetici
