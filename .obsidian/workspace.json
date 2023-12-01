@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ca3705de5be0756b",
+        "id": "bbe1441399405ffa",
         "type": "tabs",
         "children": [
           {
-            "id": "cf7cfdb1288e77d7",
+            "id": "8e982b99df65abaf",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Verifica e Validazione"
+                "file": "Capitoli/Verifica e Validazione.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Capitoli/Verifica e Validazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Capitoli/Verifica e Validazione.md"
+              }
             }
           },
           {
@@ -130,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Capitoli/Verifica e Validazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,20 +163,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf7cfdb1288e77d7",
+  "active": "b93f8041e669f8e8",
   "lastOpenFiles": [
     "Verifica e Validazione/Verifica Dinamica.md",
     "Verifica e Validazione/Progettazione casi di test.md",
+    "Criteri Black Box.md",
+    "Oracolo.md",
+    "Verifica e Validazione/Testing Combinatorio.md",
+    "Capitoli/Verifica e Validazione.md",
+    "Verifica e Validazione/Analisi dei risultati.md",
+    "Verifica e Validazione/Verifica Statica.md",
+    "Indice.md",
+    "Verifica e Validazione/Metodi Formali.md",
     "Test su Fault Ipotetici.md",
     "Test Mutazionale.md",
-    "Criteri Black Box.md",
-    "Verifica e Validazione/Analisi dei risultati.md",
     "Verifica e Validazione/Esecuzione del codice.md",
-    "Capitoli/Verifica e Validazione.md",
     "Criteri White Box.md",
     "Grafo di Flusso.md",
-    "Pasted image 20231130182012.png",
-    "Indice.md",
+    "Images/Pasted image 20231130182012.png",
     "Capitoli/Diagrammi di Sequenza.md",
     "Capitoli/Diagramma delle attività.md",
     "Definizioni/Attività.md",
@@ -182,10 +192,6 @@
     "Componenti UML/Enumerazioni.md",
     "Componenti UML/Classe Associazione.md",
     "Componenti UML/Classe Interfaccia.md",
-    "Componenti UML/Classe Astratte.md",
-    "Capitoli/UML.md",
-    "Caratteristiche del prodotto/Manutenibilità.md",
-    "Capitoli/Diagramma dei casi d'uso.md",
     "Images/Pasted image 20231127155938.png",
     "Images/Pasted image 20231127155915.png",
     "Images/Pasted image 20231127155857.png",
