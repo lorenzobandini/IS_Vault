@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bbe1441399405ffa",
+        "id": "30422a4466b26367",
         "type": "tabs",
         "children": [
           {
-            "id": "8e982b99df65abaf",
+            "id": "071ad8255e613266",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitoli/Verifica e Validazione.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Verifica e Validazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Capitoli/Verifica e Validazione.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Verifica e Validazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,23 +155,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b93f8041e669f8e8",
+  "active": "071ad8255e613266",
   "lastOpenFiles": [
+    "Capitoli/Verifica e Validazione.md",
+    "Verifica e Validazione/Problema della Terminazione.md",
+    "Testing",
     "Verifica e Validazione/Verifica Dinamica.md",
     "Verifica e Validazione/Progettazione casi di test.md",
-    "Criteri Black Box.md",
-    "Oracolo.md",
+    "Verifica e Validazione/Criteri Black Box.md",
+    "Verifica e Validazione/Oracolo.md",
     "Verifica e Validazione/Testing Combinatorio.md",
-    "Capitoli/Verifica e Validazione.md",
     "Verifica e Validazione/Analisi dei risultati.md",
     "Verifica e Validazione/Verifica Statica.md",
     "Indice.md",
     "Verifica e Validazione/Metodi Formali.md",
-    "Test su Fault Ipotetici.md",
-    "Test Mutazionale.md",
+    "Verifica e Validazione/Test su Fault Ipotetici.md",
+    "Verifica e Validazione/Test Mutazionale.md",
     "Verifica e Validazione/Esecuzione del codice.md",
-    "Criteri White Box.md",
-    "Grafo di Flusso.md",
+    "Verifica e Validazione/Criteri White Box.md",
+    "Verifica e Validazione/Grafo di Flusso.md",
     "Images/Pasted image 20231130182012.png",
     "Capitoli/Diagrammi di Sequenza.md",
     "Capitoli/Diagramma delle attività.md",
@@ -191,7 +185,6 @@
     "Componenti UML/Classi di analisi del dominio.md",
     "Componenti UML/Enumerazioni.md",
     "Componenti UML/Classe Associazione.md",
-    "Componenti UML/Classe Interfaccia.md",
     "Images/Pasted image 20231127155938.png",
     "Images/Pasted image 20231127155915.png",
     "Images/Pasted image 20231127155857.png",
@@ -211,7 +204,6 @@
     "Principi di Progettazione",
     "Caratteristiche del prodotto",
     "SOLID",
-    "Viste/Vista Comportamentale",
     "Senza nome.canvas"
   ]
 }
