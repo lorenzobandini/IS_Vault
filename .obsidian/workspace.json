@@ -11,52 +11,13 @@
             "id": "cf7cfdb1288e77d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "Verifica e Validazione/Verifica Dinamica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2932375f2172983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verifica e Validazione/Progettazione casi di test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dfc8831fcf9e782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test su Fault Ipotetici.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fb6f6c2e2a55158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test Mutazionale.md",
-                "mode": "source",
-                "source": false
+                "contextPath": "Verifica e Validazione"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,12 +72,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -132,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Mutazionale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test Mutazionale.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Mutazionale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,13 +157,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fb6f6c2e2a55158",
+  "active": "cf7cfdb1288e77d7",
   "lastOpenFiles": [
+    "Verifica e Validazione/Verifica Dinamica.md",
+    "Verifica e Validazione/Progettazione casi di test.md",
     "Test su Fault Ipotetici.md",
     "Test Mutazionale.md",
-    "Verifica e Validazione/Progettazione casi di test.md",
     "Criteri Black Box.md",
-    "Verifica e Validazione/Verifica Dinamica.md",
     "Verifica e Validazione/Analisi dei risultati.md",
     "Verifica e Validazione/Esecuzione del codice.md",
     "Capitoli/Verifica e Validazione.md",
