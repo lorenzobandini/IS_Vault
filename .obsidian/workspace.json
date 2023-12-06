@@ -11,8 +11,12 @@
             "id": "071ad8255e613266",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Pattern Creazionali/Simple Factory.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Design Patterns/Pattern Creazionali/Simple Factory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Design Patterns/Pattern Creazionali/Simple Factory.md"
+              }
             }
           },
           {
@@ -128,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Design Patterns/Pattern Creazionali/Simple Factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +165,10 @@
   },
   "active": "071ad8255e613266",
   "lastOpenFiles": [
+    "Design Patterns/Pattern Creazionali/Factory Method.md",
+    "Design Patterns/Pattern Creazionali/Abstract Factory.md",
+    "Design Patterns/Pattern Creazionali/Simple Factory.md",
+    "Design Patterns/Pattern Creazionali/Singleton.md",
     "Capitoli/Verifica e Validazione.md",
     "Verifica e Validazione/Problema della Terminazione.md",
     "Testing",
@@ -181,10 +193,6 @@
     "Capitoli/Principi di Progettazione.md",
     "SOLID/SOLID.md",
     "Capitoli/Diagramma di macchina a stati.md",
-    "Capitoli/Diagramma delle classi.md",
-    "Componenti UML/Classi di analisi del dominio.md",
-    "Componenti UML/Enumerazioni.md",
-    "Componenti UML/Classe Associazione.md",
     "Images/Pasted image 20231127155938.png",
     "Images/Pasted image 20231127155915.png",
     "Images/Pasted image 20231127155857.png",
