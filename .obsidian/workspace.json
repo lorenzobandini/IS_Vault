@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Pattern Creazionali/Simple Factory.md",
+                "file": "Viste/Vista Comportamentale/Vista Comportamentale.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "c&C",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Pattern Creazionali/Simple Factory.md",
+                "file": "Viste/Vista Comportamentale/Vista Comportamentale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Pattern Creazionali/Simple Factory.md"
+                "file": "Viste/Vista Comportamentale/Vista Comportamentale.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Pattern Creazionali/Simple Factory.md",
+                "file": "Viste/Vista Comportamentale/Vista Comportamentale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,9 +165,9 @@
   },
   "active": "071ad8255e613266",
   "lastOpenFiles": [
+    "Design Patterns/Pattern Creazionali/Simple Factory.md",
     "Design Patterns/Pattern Creazionali/Factory Method.md",
     "Design Patterns/Pattern Creazionali/Abstract Factory.md",
-    "Design Patterns/Pattern Creazionali/Simple Factory.md",
     "Design Patterns/Pattern Creazionali/Singleton.md",
     "Capitoli/Verifica e Validazione.md",
     "Verifica e Validazione/Problema della Terminazione.md",
