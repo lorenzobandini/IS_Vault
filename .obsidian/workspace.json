@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aaba9b7240632e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definizioni/Casi d'uso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "extend",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
+                "file": "Definizioni/Casi d'uso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md"
+                "file": "Definizioni/Casi d'uso.md"
               }
             }
           },
@@ -135,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
+                "file": "Definizioni/Casi d'uso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,8 +176,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "071ad8255e613266",
+  "active": "aaba9b7240632e1f",
   "lastOpenFiles": [
+    "Componenti UML/Molteplicità.md",
+    "Componenti UML/Realizzazione.md",
+    "Componenti UML/Enumerazioni.md",
+    "Componenti UML/Generalizzazione.md",
+    "Componenti UML/Composizione.md",
+    "Componenti UML/Collegamento.md",
+    "Componenti UML/Classi.md",
+    "Componenti UML/Classi di analisi del dominio.md",
+    "Componenti UML/Classe Interfaccia.md",
+    "Componenti UML/Classe Astratte.md",
+    "Componenti UML/Classe Associazione.md",
+    "Componenti UML/Aggregazione.md",
+    "Capitoli/Diagramma dei casi d'uso.md",
+    "Definizioni/Attore.md",
+    "Definizioni/Scenario.md",
+    "Definizioni/Casi d'uso.md",
+    "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
     "Viste/Vista Strutturale/Vista Strutturale di Generalizzazione.md",
     "Viste/Vista Strutturale/Vista Strutturale a Strati.md",
     "Viste/Vista Strutturale/Vista Strutturale d'Uso.md",
@@ -174,25 +204,8 @@
     "Design Patterns/Pattern Creazionali/Abstract Factory.md",
     "Design Patterns/Pattern Creazionali/Singleton.md",
     "Capitoli/Verifica e Validazione.md",
-    "Verifica e Validazione/Problema della Terminazione.md",
     "Testing",
-    "Verifica e Validazione/Verifica Dinamica.md",
-    "Verifica e Validazione/Progettazione casi di test.md",
-    "Verifica e Validazione/Criteri Black Box.md",
-    "Verifica e Validazione/Oracolo.md",
-    "Verifica e Validazione/Testing Combinatorio.md",
-    "Verifica e Validazione/Analisi dei risultati.md",
-    "Verifica e Validazione/Verifica Statica.md",
-    "Indice.md",
-    "Verifica e Validazione/Metodi Formali.md",
-    "Verifica e Validazione/Test su Fault Ipotetici.md",
-    "Verifica e Validazione/Test Mutazionale.md",
-    "Verifica e Validazione/Esecuzione del codice.md",
-    "Verifica e Validazione/Criteri White Box.md",
-    "Verifica e Validazione/Grafo di Flusso.md",
     "Images/Pasted image 20231130182012.png",
-    "Capitoli/Diagrammi di Sequenza.md",
-    "Capitoli/Diagramma delle attività.md",
     "Images/Pasted image 20231127155938.png",
     "Images/Pasted image 20231127155915.png",
     "Images/Pasted image 20231127155857.png",
