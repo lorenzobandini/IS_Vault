@@ -8,24 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "071ad8255e613266",
+            "id": "54f03b463eeef602",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
-                "mode": "source",
-                "source": false
+                "contextPath": "Viste/Vista Comportamentale"
               }
             }
           },
           {
-            "id": "aaba9b7240632e1f",
+            "id": "9560104c82c28d12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definizioni/Casi d'uso.md",
+                "file": "Viste/Vista Logistica/Vista Logistica.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definizioni/Casi d'uso.md",
+                "file": "Viste/Vista Logistica/Vista Logistica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definizioni/Casi d'uso.md"
+                "file": "Viste/Vista Logistica/Vista Logistica.md"
               }
             }
           },
@@ -148,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definizioni/Casi d'uso.md",
+                "file": "Viste/Vista Logistica/Vista Logistica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,8 +174,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aaba9b7240632e1f",
+  "active": "9560104c82c28d12",
   "lastOpenFiles": [
+    "Viste/Vista Logistica/Vista Logistica.md",
+    "Design Patterns/Pattern Creazionali/Singleton.md",
+    "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
+    "Definizioni/Casi d'uso.md",
     "Componenti UML/Molteplicità.md",
     "Componenti UML/Realizzazione.md",
     "Componenti UML/Enumerazioni.md",
@@ -193,8 +195,6 @@
     "Capitoli/Diagramma dei casi d'uso.md",
     "Definizioni/Attore.md",
     "Definizioni/Scenario.md",
-    "Definizioni/Casi d'uso.md",
-    "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
     "Viste/Vista Strutturale/Vista Strutturale di Generalizzazione.md",
     "Viste/Vista Strutturale/Vista Strutturale a Strati.md",
     "Viste/Vista Strutturale/Vista Strutturale d'Uso.md",
@@ -202,8 +202,6 @@
     "Design Patterns/Pattern Creazionali/Simple Factory.md",
     "Design Patterns/Pattern Creazionali/Factory Method.md",
     "Design Patterns/Pattern Creazionali/Abstract Factory.md",
-    "Design Patterns/Pattern Creazionali/Singleton.md",
-    "Capitoli/Verifica e Validazione.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
