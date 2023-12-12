@@ -12,7 +12,7 @@ Servono per:
 - Comunicazione: se la vista è gerarchica, offre una presentazione top-down della suddivisione delle responsabilità nel sistema ai novizi
 - Progettazione dei test di unità e di integrazione
 
-Non sono utili invece per analisi dinamiche, fatte invece con [[Vista Comportamentale]] e [[Vista Logistica]].
+Non sono utili invece per analisi dinamiche, fatte invece con [[Vista Comportamentale (C&C)]] e [[Vista Logistica]].
 
 Nella vista strutturale in [[UML]] utilizziamo:
 - Le classi sono rappresentate dando più specifica delle operazioni.

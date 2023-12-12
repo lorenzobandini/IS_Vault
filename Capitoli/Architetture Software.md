@@ -15,6 +15,6 @@ L'architettura di un sistema software è la struttura del sistema costituita da:
 - Proprietà visibili delle parti
 
 Possiamo astrarre l'architettura da 3 diversi punti di vista del sistema software:
-- [[Vista Comportamentale]]
+- [[Vista Comportamentale (C&C)]]
 - [[Vista Strutturale]]
 - [[Vista Logistica]]

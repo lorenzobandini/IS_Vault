@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viste/Vista Logistica/Vista Logistica.md",
+                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "extend",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viste/Vista Logistica/Vista Logistica.md",
+                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viste/Vista Logistica/Vista Logistica.md"
+                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viste/Vista Logistica/Vista Logistica.md",
+                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +177,8 @@
   },
   "active": "9560104c82c28d12",
   "lastOpenFiles": [
+    "Viste/Vista Comportamentale/Pipes and Filters.md",
+    "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
     "Viste/Vista Logistica/Vista Logistica.md",
     "Design Patterns/Pattern Creazionali/Singleton.md",
     "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
@@ -198,10 +201,8 @@
     "Viste/Vista Strutturale/Vista Strutturale di Generalizzazione.md",
     "Viste/Vista Strutturale/Vista Strutturale a Strati.md",
     "Viste/Vista Strutturale/Vista Strutturale d'Uso.md",
-    "Viste/Vista Comportamentale/Vista Comportamentale.md",
     "Design Patterns/Pattern Creazionali/Simple Factory.md",
     "Design Patterns/Pattern Creazionali/Factory Method.md",
-    "Design Patterns/Pattern Creazionali/Abstract Factory.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
