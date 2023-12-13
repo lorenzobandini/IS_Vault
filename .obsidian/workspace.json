@@ -4,33 +4,152 @@
     "type": "split",
     "children": [
       {
-        "id": "30422a4466b26367",
-        "type": "tabs",
+        "id": "5b20131976b779c3",
+        "type": "split",
         "children": [
           {
-            "id": "54f03b463eeef602",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Viste/Vista Comportamentale"
+            "id": "30422a4466b26367",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9560104c82c28d12",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "30ea8544a5876d7c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Componenti UML/Realizzazione.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "aa5e57ffea2abfb1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Capitoli/Design Patterns.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e64acd7b991b08d8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Design Patterns/Pattern Creazionali/Abstract Factory.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "9560104c82c28d12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
-                "mode": "source",
-                "source": false
+            "id": "0b8383746114a230",
+            "type": "split",
+            "children": [
+              {
+                "id": "448281f5140f902d",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "a3044afb184afd5a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Componenti UML/Aggregazione.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "8c9947b4470722fc",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "460d84160c93e5b6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Componenti UML/Composizione.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
               }
-            }
+            ],
+            "direction": "vertical"
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
+      },
+      {
+        "id": "accb19e16db43ede",
+        "type": "split",
+        "children": [
+          {
+            "id": "118d8d0382bb481e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ad7a3b2ab03b1c04",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Componenti UML/Associazione.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "b1b7aadbd9709647",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41a141aa938d6ed9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Componenti UML/Dipendenza.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -106,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+                "file": "Componenti UML/Composizione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md"
+                "file": "Componenti UML/Composizione.md"
               }
             }
           },
@@ -147,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+                "file": "Componenti UML/Composizione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,34 +294,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9560104c82c28d12",
+  "active": "460d84160c93e5b6",
   "lastOpenFiles": [
-    "Viste/Vista Comportamentale/Pipes and Filters.md",
+    "Componenti UML/Realizzazione.md",
     "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+    "Componenti UML/Composizione.md",
+    "Componenti UML/Aggregazione.md",
+    "Capitoli/Design Patterns.md",
+    "Componenti UML/Dipendenza.md",
+    "Componenti UML/Collegamento.md",
+    "Componenti UML/Associazione.md",
+    "Componenti UML/Classi di analisi del dominio.md",
+    "Componenti UML/Classe Astratte.md",
+    "Componenti UML/Classe Associazione.md",
+    "Design Patterns/Pattern Creazionali/Abstract Factory.md",
+    "Componenti UML/Enumerazioni.md",
+    "Componenti UML/Classe Interfaccia.md",
+    "Capitoli/GoF.md",
+    "Design Patterns/Pattern Creazionali/Simple Factory.md",
+    "Viste/Vista Comportamentale/Pipes and Filters.md",
     "Viste/Vista Logistica/Vista Logistica.md",
     "Design Patterns/Pattern Creazionali/Singleton.md",
     "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
     "Definizioni/Casi d'uso.md",
     "Componenti UML/Molteplicità.md",
-    "Componenti UML/Realizzazione.md",
-    "Componenti UML/Enumerazioni.md",
     "Componenti UML/Generalizzazione.md",
-    "Componenti UML/Composizione.md",
-    "Componenti UML/Collegamento.md",
     "Componenti UML/Classi.md",
-    "Componenti UML/Classi di analisi del dominio.md",
-    "Componenti UML/Classe Interfaccia.md",
-    "Componenti UML/Classe Astratte.md",
-    "Componenti UML/Classe Associazione.md",
-    "Componenti UML/Aggregazione.md",
     "Capitoli/Diagramma dei casi d'uso.md",
     "Definizioni/Attore.md",
-    "Definizioni/Scenario.md",
-    "Viste/Vista Strutturale/Vista Strutturale di Generalizzazione.md",
-    "Viste/Vista Strutturale/Vista Strutturale a Strati.md",
-    "Viste/Vista Strutturale/Vista Strutturale d'Uso.md",
-    "Design Patterns/Pattern Creazionali/Simple Factory.md",
-    "Design Patterns/Pattern Creazionali/Factory Method.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
