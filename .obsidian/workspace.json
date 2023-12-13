@@ -6,7 +6,7 @@
       {
         "id": "5b20131976b779c3",
         "type": "split",
-        "dimension": 26.293706293706293,
+        "dimension": 47.69230769230769,
         "children": [
           {
             "id": "30422a4466b26367",
@@ -111,11 +111,12 @@
       {
         "id": "accb19e16db43ede",
         "type": "split",
-        "dimension": 73.7062937062937,
+        "dimension": 52.307692307692314,
         "children": [
           {
             "id": "118d8d0382bb481e",
             "type": "tabs",
+            "dimension": 76.95749440715883,
             "children": [
               {
                 "id": "ad7a3b2ab03b1c04",
@@ -147,6 +148,7 @@
           {
             "id": "b1b7aadbd9709647",
             "type": "tabs",
+            "dimension": 23.042505592841163,
             "children": [
               {
                 "id": "41a141aa938d6ed9",
@@ -309,12 +311,15 @@
   },
   "active": "dbd0d8a462f99ea4",
   "lastOpenFiles": [
-    "Design Patterns/Pattern Creazionali/Singleton.md",
+    "Design Patterns/Pattern Creazionali/Factory Method.md",
+    "Componenti UML/Composizione.md",
+    "Componenti UML/Realizzazione.md",
     "Capitoli/Design Patterns.md",
+    "Componenti UML/Associazione.md",
+    "Componenti UML/Dipendenza.md",
+    "Design Patterns/Pattern Creazionali/Singleton.md",
     "Design Patterns/Pattern Strutturali/Proxy.md",
     "Design Patterns/Pattern Strutturali/Adapter.md",
-    "Componenti UML/Associazione.md",
-    "Componenti UML/Realizzazione.md",
     "Viste/Vista Logistica/Vista Logistica.md",
     "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
     "Viste/Vista Strutturale/Vista Strutturale.md",
@@ -327,14 +332,11 @@
     "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
     "Design Patterns/Pattern Comportamentali/State.md",
     "Design Patterns/Pattern Comportamentali/Strategy.md",
-    "Componenti UML/Composizione.md",
     "Componenti UML/Aggregazione.md",
-    "Componenti UML/Dipendenza.md",
     "Componenti UML/Collegamento.md",
     "Componenti UML/Classi di analisi del dominio.md",
     "Componenti UML/Classe Astratte.md",
     "Componenti UML/Classe Associazione.md",
-    "Componenti UML/Enumerazioni.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
