@@ -45,7 +45,13 @@
       "Modelli",
       "Design Pattern",
       "Testing",
-      "Componenti UML"
+      "Design Patterns/Pattern Comportamentali",
+      "Design Patterns/Pattern Strutturali",
+      "Design Patterns/Pattern Creazionali",
+      "Viste",
+      "Viste/Vista Comportamentale",
+      "Viste/Vista Logistica",
+      "Viste/Vista Strutturale"
     ]
   },
   "expandedSpaces": [

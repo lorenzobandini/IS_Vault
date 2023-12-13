@@ -12,18 +12,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "9560104c82c28d12",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "30ea8544a5876d7c",
                 "type": "leaf",
                 "state": {
@@ -48,6 +36,18 @@
                 }
               },
               {
+                "id": "665ce5ec0dbd3341",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Design Patterns/Pattern Strutturali/Adapter.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "e64acd7b991b08d8",
                 "type": "leaf",
                 "state": {
@@ -59,8 +59,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "0b8383746114a230",
@@ -208,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -225,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Componenti UML/Composizione.md",
+                "file": "Componenti UML/Realizzazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -256,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Componenti UML/Composizione.md"
+                "file": "Componenti UML/Realizzazione.md"
               }
             }
           },
@@ -266,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Componenti UML/Composizione.md",
+                "file": "Componenti UML/Realizzazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,34 +292,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "460d84160c93e5b6",
+  "active": "30ea8544a5876d7c",
   "lastOpenFiles": [
+    "Viste/Vista Logistica/Vista Logistica.md",
     "Componenti UML/Realizzazione.md",
     "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+    "Capitoli/Design Patterns.md",
+    "Design Patterns/Pattern Strutturali/Adapter.md",
+    "Viste/Vista Strutturale/Vista Strutturale.md",
+    "Design Patterns/Pattern Creazionali/Abstract Factory.md",
+    "Viste/Vista Strutturale/Vista Strutturale di Generalizzazione.md",
+    "Viste/Vista Strutturale/Vista Strutturale d'Uso.md",
+    "Viste/Vista Strutturale/Vista Strutturale a Strati.md",
+    "Viste/Vista Comportamentale/Master-Slave.md",
+    "Viste/Vista Comportamentale/Coordinatore di Processi.md",
+    "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
+    "Design Patterns/Pattern Comportamentali/State.md",
+    "Design Patterns/Pattern Comportamentali/Strategy.md",
     "Componenti UML/Composizione.md",
     "Componenti UML/Aggregazione.md",
-    "Capitoli/Design Patterns.md",
     "Componenti UML/Dipendenza.md",
     "Componenti UML/Collegamento.md",
     "Componenti UML/Associazione.md",
     "Componenti UML/Classi di analisi del dominio.md",
     "Componenti UML/Classe Astratte.md",
     "Componenti UML/Classe Associazione.md",
-    "Design Patterns/Pattern Creazionali/Abstract Factory.md",
     "Componenti UML/Enumerazioni.md",
     "Componenti UML/Classe Interfaccia.md",
     "Capitoli/GoF.md",
-    "Design Patterns/Pattern Creazionali/Simple Factory.md",
-    "Viste/Vista Comportamentale/Pipes and Filters.md",
-    "Viste/Vista Logistica/Vista Logistica.md",
-    "Design Patterns/Pattern Creazionali/Singleton.md",
-    "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
-    "Definizioni/Casi d'uso.md",
-    "Componenti UML/Molteplicità.md",
-    "Componenti UML/Generalizzazione.md",
-    "Componenti UML/Classi.md",
-    "Capitoli/Diagramma dei casi d'uso.md",
-    "Definizioni/Attore.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
