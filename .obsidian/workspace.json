@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verifica e Validazione/Criteri White Box.md",
+                "file": "Verifica e Validazione/Progettazione casi di test.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "partizione",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verifica e Validazione/Criteri Black Box.md",
+                "file": "Verifica e Validazione/Progettazione casi di test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verifica e Validazione/Criteri Black Box.md"
+                "file": "Verifica e Validazione/Progettazione casi di test.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verifica e Validazione/Criteri Black Box.md",
+                "file": "Verifica e Validazione/Progettazione casi di test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,13 +181,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac676530dfce56f6",
+  "active": "8cba873371bd4ff9",
   "lastOpenFiles": [
-    "Verifica e Validazione/Criteri White Box.md",
+    "Definizioni/Attività.md",
     "Verifica e Validazione/Progettazione casi di test.md",
+    "Verifica e Validazione/Criteri White Box.md",
+    "Verifica e Validazione/Criteri Black Box.md",
     "Verifica e Validazione/Esecuzione del codice.md",
     "Verifica e Validazione/Verifica Dinamica.md",
-    "Verifica e Validazione/Criteri Black Box.md",
     "Verifica e Validazione/Testing Combinatorio.md",
     "Verifica e Validazione/Grafo di Flusso.md",
     "Capitoli/Verifica e Validazione.md",
@@ -208,7 +209,6 @@
     "Componenti UML/Classe Astratte.md",
     "Componenti UML/Classe Associazione.md",
     "Componenti UML/Aggregazione.md",
-    "Componenti UML/Associazione.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
