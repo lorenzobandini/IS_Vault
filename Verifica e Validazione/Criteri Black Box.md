@@ -1,4 +1,4 @@
-I Criteri Black Box si riferiscono a tecniche o approcci che trattano un sistema come una "scatola nera", senza conoscere o assumere nulla sulla sua struttura interna o il suo funzionamento. Nel contesto della generazione di valori di input, i metodi black box cercano di trovare input efficaci per ottimizzare una certa funzione obiettivo senza avere accesso diretto alla conoscenza interna del sistema.
+I Criteri Black Box si riferiscono a tecniche o approcci che trattano un sistema come una "scatola nera", senza conoscere o assumere nulla sulla sua struttura interna o il suo funzionamento ma solo sulle sue specifiche. Nel contesto della generazione di valori di input, i metodi black box cercano di trovare input efficaci per ottimizzare una certa funzione obiettivo senza avere accesso diretto alla conoscenza interna del sistema.
 
 La strategia è separare i dati in base all'ambiente in cui sono stati eseguiti e si standardizzano nella forma.
 Per ogni tipo di parametro di input si individuano i valori da testare e per l'insieme dei parametri si usano tecniche che vanno sotto il nome di [[Testing Combinatorio]] per ridurre le combinazioni.

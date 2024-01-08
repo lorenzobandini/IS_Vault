@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7913cfc6b32ded7c",
+            "id": "ac676530dfce56f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/Verifica e Validazione.md",
+                "file": "Verifica e Validazione/Criteri Black Box.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8089513351899017",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cba873371bd4ff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verifica e Validazione/Criteri White Box.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -95,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Verifica e Validazione.md",
+                "file": "Verifica e Validazione/Criteri Black Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli/Verifica e Validazione.md"
+                "file": "Verifica e Validazione/Criteri Black Box.md"
               }
             }
           },
@@ -136,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Verifica e Validazione.md",
+                "file": "Verifica e Validazione/Criteri Black Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,8 +181,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b93f8041e669f8e8",
+  "active": "ac676530dfce56f6",
   "lastOpenFiles": [
+    "Verifica e Validazione/Criteri White Box.md",
+    "Verifica e Validazione/Progettazione casi di test.md",
+    "Verifica e Validazione/Esecuzione del codice.md",
+    "Verifica e Validazione/Verifica Dinamica.md",
+    "Verifica e Validazione/Criteri Black Box.md",
+    "Verifica e Validazione/Testing Combinatorio.md",
+    "Verifica e Validazione/Grafo di Flusso.md",
+    "Capitoli/Verifica e Validazione.md",
+    "Verifica e Validazione/Verifica Statica.md",
+    "Domande Guida Verifica e Validazione/Come può essere migliorato il processo di sviluppo.md",
+    "Domande Guida Verifica e Validazione/Come possiamo controllare la qualità delle relase successive.md",
+    "Domande Guida Verifica e Validazione/Come possiamo valutare se un prodotto è pronto per essere rilasciato.md",
+    "Domande Guida Verifica e Validazione/Quali tecniche applicare.md",
+    "Domande Guida Verifica e Validazione/Quando iniziare verifica e convalida e quando sono complete.md",
     "Indice.md",
     "Componenti UML/Generalizzazione.md",
     "Componenti UML/Molteplicità.md",
@@ -178,20 +209,6 @@
     "Componenti UML/Classe Associazione.md",
     "Componenti UML/Aggregazione.md",
     "Componenti UML/Associazione.md",
-    "Componenti UML/Classi.md",
-    "Design Patterns/Pattern Creazionali/Singleton.md",
-    "Capitoli/Design Patterns.md",
-    "Design Patterns/Pattern Creazionali/Simple Factory.md",
-    "Design Patterns/Pattern Creazionali/Factory Method.md",
-    "Design Patterns/Pattern Creazionali/Abstract Factory.md",
-    "Design Patterns/Pattern Strutturali/Decorator.md",
-    "Design Patterns/Pattern Strutturali/Proxy.md",
-    "Design Patterns/Pattern Strutturali/Adapter.md",
-    "Design Patterns/Pattern Comportamentali/State.md",
-    "Design Patterns/Pattern Comportamentali/Strategy.md",
-    "Componenti UML/Enumerazioni.md",
-    "Componenti UML/Realizzazione.md",
-    "SOLID/Interface Segregation Principle.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
