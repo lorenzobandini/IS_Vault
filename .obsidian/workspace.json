@@ -20,31 +20,43 @@
             }
           },
           {
-            "id": "c15b9d9c1ffd887c",
+            "id": "a8102783e09b6126",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Pattern Comportamentali/State.md",
+                "file": "Design Patterns/Pattern Strutturali/Adapter.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a7c44749a5c479ea",
+            "id": "84dcac510812d78d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Pattern Comportamentali/Strategy.md",
+                "file": "Design Patterns/Pattern Strutturali/Proxy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19c3e96d6ad5d971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Pattern Strutturali/Decorator.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Pattern Comportamentali/State.md",
+                "file": "Design Patterns/Pattern Strutturali/Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Pattern Comportamentali/State.md"
+                "file": "Design Patterns/Pattern Strutturali/Proxy.md"
               }
             }
           },
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Pattern Comportamentali/State.md",
+                "file": "Design Patterns/Pattern Strutturali/Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,34 +201,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c15b9d9c1ffd887c",
+  "active": "84dcac510812d78d",
   "lastOpenFiles": [
-    "Design Patterns/Pattern Comportamentali/Strategy.md",
-    "Design Patterns/Pattern Comportamentali/State.md",
+    "Design Patterns/Pattern Strutturali/Adapter.md",
+    "Design Patterns/Pattern Strutturali/Proxy.md",
+    "Design Patterns/Pattern Strutturali/Decorator.md",
     "Capitoli/Design Patterns.md",
-    "SOLID/Interface Segregation Principle.md",
+    "Design Patterns/Pattern Creazionali/Factory Method.md",
+    "Design Patterns/Pattern Comportamentali/State.md",
+    "Design Patterns/Pattern Comportamentali/Strategy.md",
+    "Componenti UML/Classi di analisi del dominio.md",
+    "Componenti UML/Classi.md",
+    "Componenti UML/Dipendenza.md",
+    "Componenti UML/Collegamento.md",
+    "Componenti UML/Composizione.md",
+    "Componenti UML/Enumerazioni.md",
+    "Componenti UML/Realizzazione.md",
+    "Componenti UML/Generalizzazione.md",
+    "Componenti UML/Molteplicità.md",
     "Componenti UML/Classe Interfaccia.md",
+    "Componenti UML/Aggregazione.md",
+    "SOLID/Interface Segregation Principle.md",
     "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
     "Viste/Vista Comportamentale/Peer-to-Peer.md",
     "Viste/Vista Comportamentale/Pipes and Filters.md",
     "Indice.md",
-    "Componenti UML/Composizione.md",
-    "Componenti UML/Aggregazione.md",
     "Componenti UML/Associazione.md",
-    "Componenti UML/Realizzazione.md",
-    "Design Patterns/Pattern Strutturali/Adapter.md",
     "Design Patterns/Pattern Creazionali/Abstract Factory.md",
-    "Componenti UML/Dipendenza.md",
-    "Design Patterns/Pattern Creazionali/Factory Method.md",
     "Design Patterns/Pattern Creazionali/Singleton.md",
-    "Design Patterns/Pattern Strutturali/Proxy.md",
-    "Viste/Vista Logistica/Vista Logistica.md",
-    "Viste/Vista Strutturale/Vista Strutturale.md",
-    "Viste/Vista Strutturale/Vista Strutturale di Generalizzazione.md",
-    "Viste/Vista Strutturale/Vista Strutturale d'Uso.md",
-    "Viste/Vista Strutturale/Vista Strutturale a Strati.md",
-    "Viste/Vista Comportamentale/Master-Slave.md",
-    "Viste/Vista Comportamentale/Coordinatore di Processi.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
