@@ -11,11 +11,40 @@
             "id": "3ca8f5f00efb2f5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Capitoli/Design Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c15b9d9c1ffd887c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Pattern Comportamentali/State.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7c44749a5c479ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Pattern Comportamentali/Strategy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Design Patterns/Pattern Comportamentali/State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Design Patterns/Pattern Comportamentali/State.md"
+              }
             }
           },
           {
@@ -128,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Design Patterns/Pattern Comportamentali/State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ca8f5f00efb2f5f",
+  "active": "c15b9d9c1ffd887c",
   "lastOpenFiles": [
+    "Design Patterns/Pattern Comportamentali/Strategy.md",
+    "Design Patterns/Pattern Comportamentali/State.md",
+    "Capitoli/Design Patterns.md",
     "SOLID/Interface Segregation Principle.md",
     "Componenti UML/Classe Interfaccia.md",
     "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
@@ -166,7 +202,6 @@
     "Componenti UML/Composizione.md",
     "Componenti UML/Aggregazione.md",
     "Componenti UML/Associazione.md",
-    "Capitoli/Design Patterns.md",
     "Componenti UML/Realizzazione.md",
     "Design Patterns/Pattern Strutturali/Adapter.md",
     "Design Patterns/Pattern Creazionali/Abstract Factory.md",
@@ -181,8 +216,6 @@
     "Viste/Vista Strutturale/Vista Strutturale a Strati.md",
     "Viste/Vista Comportamentale/Master-Slave.md",
     "Viste/Vista Comportamentale/Coordinatore di Processi.md",
-    "Viste/Vista Strutturale/Vista Strutturale di Decomposizione.md",
-    "Design Patterns/Pattern Comportamentali/State.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
