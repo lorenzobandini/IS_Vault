@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c5bef042c8494bda",
+        "id": "06ee9b6f2c5f6991",
         "type": "tabs",
         "children": [
           {
-            "id": "86f2675b2d7959b7",
+            "id": "7913cfc6b32ded7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Componenti UML/Dipendenza.md",
+                "file": "Capitoli/Verifica e Validazione.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Componenti UML/Dipendenza.md",
+                "file": "Capitoli/Verifica e Validazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Componenti UML/Dipendenza.md"
+                "file": "Capitoli/Verifica e Validazione.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Componenti UML/Dipendenza.md",
+                "file": "Capitoli/Verifica e Validazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,8 +164,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86f2675b2d7959b7",
+  "active": "b93f8041e669f8e8",
   "lastOpenFiles": [
+    "Indice.md",
+    "Componenti UML/Generalizzazione.md",
+    "Componenti UML/Molteplicità.md",
+    "Componenti UML/Collegamento.md",
+    "Componenti UML/Composizione.md",
+    "Componenti UML/Dipendenza.md",
+    "Componenti UML/Classi di analisi del dominio.md",
+    "Componenti UML/Classe Interfaccia.md",
+    "Componenti UML/Classe Astratte.md",
+    "Componenti UML/Classe Associazione.md",
+    "Componenti UML/Aggregazione.md",
+    "Componenti UML/Associazione.md",
+    "Componenti UML/Classi.md",
     "Design Patterns/Pattern Creazionali/Singleton.md",
     "Capitoli/Design Patterns.md",
     "Design Patterns/Pattern Creazionali/Simple Factory.md",
@@ -175,22 +189,9 @@
     "Design Patterns/Pattern Strutturali/Adapter.md",
     "Design Patterns/Pattern Comportamentali/State.md",
     "Design Patterns/Pattern Comportamentali/Strategy.md",
-    "Componenti UML/Classi di analisi del dominio.md",
-    "Componenti UML/Classi.md",
-    "Componenti UML/Dipendenza.md",
-    "Componenti UML/Collegamento.md",
-    "Componenti UML/Composizione.md",
     "Componenti UML/Enumerazioni.md",
     "Componenti UML/Realizzazione.md",
-    "Componenti UML/Generalizzazione.md",
-    "Componenti UML/Molteplicità.md",
-    "Componenti UML/Classe Interfaccia.md",
-    "Componenti UML/Aggregazione.md",
     "SOLID/Interface Segregation Principle.md",
-    "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
-    "Viste/Vista Comportamentale/Peer-to-Peer.md",
-    "Viste/Vista Comportamentale/Pipes and Filters.md",
-    "Indice.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
