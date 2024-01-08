@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "a8102783e09b6126",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns/Pattern Strutturali/Adapter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84dcac510812d78d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns/Pattern Strutturali/Proxy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "19c3e96d6ad5d971",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Pattern Strutturali/Decorator.md",
+                "file": "Design Patterns/Pattern Creazionali/Factory Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Pattern Strutturali/Proxy.md",
+                "file": "Design Patterns/Pattern Creazionali/Factory Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Pattern Strutturali/Proxy.md"
+                "file": "Design Patterns/Pattern Creazionali/Factory Method.md"
               }
             }
           },
@@ -173,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Pattern Strutturali/Proxy.md",
+                "file": "Design Patterns/Pattern Creazionali/Factory Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,11 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84dcac510812d78d",
+  "active": "19c3e96d6ad5d971",
   "lastOpenFiles": [
-    "Design Patterns/Pattern Strutturali/Adapter.md",
-    "Design Patterns/Pattern Strutturali/Proxy.md",
     "Design Patterns/Pattern Strutturali/Decorator.md",
+    "Design Patterns/Pattern Strutturali/Proxy.md",
+    "Design Patterns/Pattern Strutturali/Adapter.md",
     "Capitoli/Design Patterns.md",
     "Design Patterns/Pattern Creazionali/Factory Method.md",
     "Design Patterns/Pattern Comportamentali/State.md",
