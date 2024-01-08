@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "70b4e8d786c2f683",
+        "id": "c5bef042c8494bda",
         "type": "tabs",
         "children": [
           {
-            "id": "3ca8f5f00efb2f5f",
+            "id": "86f2675b2d7959b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli/Design Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19c3e96d6ad5d971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns/Pattern Creazionali/Factory Method.md",
+                "file": "Componenti UML/Dipendenza.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -108,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Pattern Creazionali/Factory Method.md",
+                "file": "Componenti UML/Dipendenza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Pattern Creazionali/Factory Method.md"
+                "file": "Componenti UML/Dipendenza.md"
               }
             }
           },
@@ -149,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Pattern Creazionali/Factory Method.md",
+                "file": "Componenti UML/Dipendenza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,13 +163,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19c3e96d6ad5d971",
+  "active": "86f2675b2d7959b7",
   "lastOpenFiles": [
+    "Design Patterns/Pattern Creazionali/Singleton.md",
+    "Capitoli/Design Patterns.md",
+    "Design Patterns/Pattern Creazionali/Simple Factory.md",
+    "Design Patterns/Pattern Creazionali/Factory Method.md",
+    "Design Patterns/Pattern Creazionali/Abstract Factory.md",
     "Design Patterns/Pattern Strutturali/Decorator.md",
     "Design Patterns/Pattern Strutturali/Proxy.md",
     "Design Patterns/Pattern Strutturali/Adapter.md",
-    "Capitoli/Design Patterns.md",
-    "Design Patterns/Pattern Creazionali/Factory Method.md",
     "Design Patterns/Pattern Comportamentali/State.md",
     "Design Patterns/Pattern Comportamentali/Strategy.md",
     "Componenti UML/Classi di analisi del dominio.md",
@@ -202,9 +191,6 @@
     "Viste/Vista Comportamentale/Peer-to-Peer.md",
     "Viste/Vista Comportamentale/Pipes and Filters.md",
     "Indice.md",
-    "Componenti UML/Associazione.md",
-    "Design Patterns/Pattern Creazionali/Abstract Factory.md",
-    "Design Patterns/Pattern Creazionali/Singleton.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
