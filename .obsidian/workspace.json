@@ -11,8 +11,12 @@
             "id": "854124b8ac3ca2b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Capitoli/Verifica e Validazione.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Capitoli/Verifica e Validazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Capitoli/Verifica e Validazione.md"
+              }
             }
           },
           {
@@ -128,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Capitoli/Verifica e Validazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +166,7 @@
   },
   "active": "854124b8ac3ca2b5",
   "lastOpenFiles": [
+    "Indice.md",
     "Verifica e Validazione/Grafo di Flusso.md",
     "Verifica e Validazione/Vincoli.md",
     "Verifica e Validazione/Criteri Black Box.md",
@@ -177,7 +186,6 @@
     "Domande Guida Verifica e Validazione/Come possiamo valutare se un prodotto è pronto per essere rilasciato.md",
     "Domande Guida Verifica e Validazione/Quali tecniche applicare.md",
     "Domande Guida Verifica e Validazione/Quando iniziare verifica e convalida e quando sono complete.md",
-    "Indice.md",
     "Componenti UML/Generalizzazione.md",
     "Componenti UML/Molteplicità.md",
     "Componenti UML/Collegamento.md",
