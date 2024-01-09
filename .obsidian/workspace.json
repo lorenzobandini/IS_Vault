@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+                "file": "Viste/Vista Comportamentale/Model-View-Controller.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+                "file": "Viste/Vista Comportamentale/Client-Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md"
+                "file": "Viste/Vista Comportamentale/Client-Server.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+                "file": "Viste/Vista Comportamentale/Client-Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,16 +177,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be8090d2df69d154",
+  "active": "67bd5558c7cfa63c",
   "lastOpenFiles": [
-    "Viste/Vista Comportamentale/Client-Server.md",
+    "Verifica e Validazione/Criteri Black Box.md",
+    "Viste/Vista Comportamentale/Model-View-Controller.md",
     "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+    "Viste/Vista Comportamentale/Client-Server.md",
     "Viste/Vista Comportamentale/Pipes and Filters.md",
     "Capitoli/Verifica e Validazione.md",
     "Indice.md",
     "Verifica e Validazione/Grafo di Flusso.md",
     "Verifica e Validazione/Vincoli.md",
-    "Verifica e Validazione/Criteri Black Box.md",
     "Verifica e Validazione/Criteri White Box.md",
     "Verifica e Validazione/Testing Combinatorio.md",
     "Verifica e Validazione/Pairwise Testing.md",
@@ -203,7 +205,6 @@
     "Domande Guida Verifica e Validazione/Quando iniziare verifica e convalida e quando sono complete.md",
     "Componenti UML/Generalizzazione.md",
     "Componenti UML/Molteplicità.md",
-    "Componenti UML/Collegamento.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
