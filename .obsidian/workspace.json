@@ -4,78 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "06ee9b6f2c5f6991",
+        "id": "c93369d390b5422a",
         "type": "tabs",
         "children": [
           {
-            "id": "ac676530dfce56f6",
+            "id": "854124b8ac3ca2b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verifica e Validazione/Criteri Black Box.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bc3405fe8301cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verifica e Validazione/Criteri White Box.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8089513351899017",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8cba873371bd4ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verifica e Validazione/Progettazione casi di test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bb5a1daeb7ca9f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verifica e Validazione/Testing Combinatorio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69fc94376c477848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verifica e Validazione/Vincoli.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "5c201b084ae15016",
@@ -151,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verifica e Validazione/Criteri White Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Verifica e Validazione/Criteri White Box.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verifica e Validazione/Criteri White Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,20 +156,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4bc3405fe8301cb1",
+  "active": "854124b8ac3ca2b5",
   "lastOpenFiles": [
+    "Verifica e Validazione/Grafo di Flusso.md",
     "Verifica e Validazione/Vincoli.md",
+    "Verifica e Validazione/Criteri Black Box.md",
+    "Verifica e Validazione/Criteri White Box.md",
     "Verifica e Validazione/Testing Combinatorio.md",
     "Verifica e Validazione/Pairwise Testing.md",
-    "Verifica e Validazione/Criteri White Box.md",
     "Verifica e Validazione/Progettazione casi di test.md",
-    "Verifica e Validazione/Criteri Black Box.md",
     "Verifica e Validazione/Oracolo.md",
     "Verifica e Validazione/Test su Fault Ipotetici.md",
     "Definizioni/Attività.md",
     "Verifica e Validazione/Esecuzione del codice.md",
     "Verifica e Validazione/Verifica Dinamica.md",
-    "Verifica e Validazione/Grafo di Flusso.md",
     "Capitoli/Verifica e Validazione.md",
     "Verifica e Validazione/Verifica Statica.md",
     "Domande Guida Verifica e Validazione/Come può essere migliorato il processo di sviluppo.md",
