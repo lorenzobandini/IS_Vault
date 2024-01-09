@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c93369d390b5422a",
+        "id": "b0e7465be8f8b5cd",
         "type": "tabs",
         "children": [
           {
-            "id": "854124b8ac3ca2b5",
+            "id": "be8090d2df69d154",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capitoli/Verifica e Validazione.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli/Verifica e Validazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Capitoli/Verifica e Validazione.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli/Verifica e Validazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "854124b8ac3ca2b5",
+  "active": "be8090d2df69d154",
   "lastOpenFiles": [
+    "Capitoli/Verifica e Validazione.md",
     "Indice.md",
     "Verifica e Validazione/Grafo di Flusso.md",
     "Verifica e Validazione/Vincoli.md",
@@ -179,7 +172,6 @@
     "Definizioni/Attività.md",
     "Verifica e Validazione/Esecuzione del codice.md",
     "Verifica e Validazione/Verifica Dinamica.md",
-    "Capitoli/Verifica e Validazione.md",
     "Verifica e Validazione/Verifica Statica.md",
     "Domande Guida Verifica e Validazione/Come può essere migliorato il processo di sviluppo.md",
     "Domande Guida Verifica e Validazione/Come possiamo controllare la qualità delle relase successive.md",
