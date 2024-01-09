@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viste/Vista Comportamentale/Model-View-Controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67bd5558c7cfa63c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Viste/Vista Comportamentale/Client-Server.md",
+                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viste/Vista Comportamentale/Client-Server.md",
+                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viste/Vista Comportamentale/Client-Server.md"
+                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md"
               }
             }
           },
@@ -148,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viste/Vista Comportamentale/Client-Server.md",
+                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,12 +164,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67bd5558c7cfa63c",
+  "active": "be8090d2df69d154",
   "lastOpenFiles": [
-    "Verifica e Validazione/Criteri Black Box.md",
-    "Viste/Vista Comportamentale/Model-View-Controller.md",
-    "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
     "Viste/Vista Comportamentale/Client-Server.md",
+    "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+    "Viste/Vista Comportamentale/Model-View-Controller.md",
+    "Verifica e Validazione/Criteri Black Box.md",
     "Viste/Vista Comportamentale/Pipes and Filters.md",
     "Capitoli/Verifica e Validazione.md",
     "Indice.md",
