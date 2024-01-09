@@ -49,8 +49,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7bb5a1daeb7ca9f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verifica e Validazione/Testing Combinatorio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69fc94376c477848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verifica e Validazione/Vincoli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,12 +223,13 @@
   },
   "active": "4bc3405fe8301cb1",
   "lastOpenFiles": [
-    "Verifica e Validazione/Criteri Black Box.md",
-    "Verifica e Validazione/Progettazione casi di test.md",
-    "Verifica e Validazione/Oracolo.md",
     "Verifica e Validazione/Vincoli.md",
     "Verifica e Validazione/Testing Combinatorio.md",
+    "Verifica e Validazione/Pairwise Testing.md",
     "Verifica e Validazione/Criteri White Box.md",
+    "Verifica e Validazione/Progettazione casi di test.md",
+    "Verifica e Validazione/Criteri Black Box.md",
+    "Verifica e Validazione/Oracolo.md",
     "Verifica e Validazione/Test su Fault Ipotetici.md",
     "Definizioni/Attività.md",
     "Verifica e Validazione/Esecuzione del codice.md",
@@ -223,7 +249,6 @@
     "Componenti UML/Composizione.md",
     "Componenti UML/Dipendenza.md",
     "Componenti UML/Classi di analisi del dominio.md",
-    "Componenti UML/Classe Interfaccia.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
