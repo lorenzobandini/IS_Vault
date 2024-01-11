@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+                "file": "Verifica e Validazione/Verifica Statica.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "partizione",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+                "file": "Verifica e Validazione/Verifica Statica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md"
+                "file": "Verifica e Validazione/Verifica Statica.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+                "file": "Verifica e Validazione/Verifica Statica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,10 +166,12 @@
   },
   "active": "be8090d2df69d154",
   "lastOpenFiles": [
-    "Viste/Vista Comportamentale/Client-Server.md",
-    "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
-    "Viste/Vista Comportamentale/Model-View-Controller.md",
+    "Verifica e Validazione/Test su Fault Ipotetici.md",
+    "Verifica e Validazione/Esecuzione del codice.md",
     "Verifica e Validazione/Criteri Black Box.md",
+    "Viste/Vista Comportamentale/Vista Comportamentale (C&C).md",
+    "Viste/Vista Comportamentale/Client-Server.md",
+    "Viste/Vista Comportamentale/Model-View-Controller.md",
     "Viste/Vista Comportamentale/Pipes and Filters.md",
     "Capitoli/Verifica e Validazione.md",
     "Indice.md",
@@ -180,9 +182,7 @@
     "Verifica e Validazione/Pairwise Testing.md",
     "Verifica e Validazione/Progettazione casi di test.md",
     "Verifica e Validazione/Oracolo.md",
-    "Verifica e Validazione/Test su Fault Ipotetici.md",
     "Definizioni/Attività.md",
-    "Verifica e Validazione/Esecuzione del codice.md",
     "Verifica e Validazione/Verifica Dinamica.md",
     "Verifica e Validazione/Verifica Statica.md",
     "Domande Guida Verifica e Validazione/Come può essere migliorato il processo di sviluppo.md",
