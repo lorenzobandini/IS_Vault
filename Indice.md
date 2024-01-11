@@ -1,4 +1,4 @@
-1. o[[Processo Software]]
+1. [[Processo Software]]
 2. [[Nascita del termine IS]]
 3. [[Specificità del software]]
 4. [[Modelli di ciclo di vita]]

@@ -13,13 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verifica e Validazione/Verifica Statica.md",
+                "file": "Indice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6f2545fad5c34e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitoli/Analisi Requisiti.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18128fb0e09e9f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitoli/Modelli di ciclo di vita.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09e9cb961f1dbcf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitoli/Specificità del software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5bad6078882b7b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitoli/Nascita del termine IS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "517aebc3bf8b6336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitoli/Processo Software.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -94,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verifica e Validazione/Verifica Statica.md",
+                "file": "Capitoli/Processo Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verifica e Validazione/Verifica Statica.md"
+                "file": "Capitoli/Processo Software.md"
               }
             }
           },
@@ -135,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verifica e Validazione/Verifica Statica.md",
+                "file": "Capitoli/Processo Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,8 +225,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be8090d2df69d154",
+  "active": "517aebc3bf8b6336",
   "lastOpenFiles": [
+    "Errori di IS + Successo di Parigi/Gemini V.md",
+    "Capitoli/Processo Software.md",
+    "Capitoli/Analisi Requisiti.md",
+    "Capitoli/Nascita del termine IS.md",
+    "Capitoli/Specificità del software.md",
+    "Capitoli/Modelli di ciclo di vita.md",
+    "Indice.md",
+    "Verifica e Validazione/Verifica Statica.md",
     "Verifica e Validazione/Test su Fault Ipotetici.md",
     "Verifica e Validazione/Esecuzione del codice.md",
     "Verifica e Validazione/Criteri Black Box.md",
@@ -174,7 +243,6 @@
     "Viste/Vista Comportamentale/Model-View-Controller.md",
     "Viste/Vista Comportamentale/Pipes and Filters.md",
     "Capitoli/Verifica e Validazione.md",
-    "Indice.md",
     "Verifica e Validazione/Grafo di Flusso.md",
     "Verifica e Validazione/Vincoli.md",
     "Verifica e Validazione/Criteri White Box.md",
@@ -184,14 +252,7 @@
     "Verifica e Validazione/Oracolo.md",
     "Definizioni/Attività.md",
     "Verifica e Validazione/Verifica Dinamica.md",
-    "Verifica e Validazione/Verifica Statica.md",
     "Domande Guida Verifica e Validazione/Come può essere migliorato il processo di sviluppo.md",
-    "Domande Guida Verifica e Validazione/Come possiamo controllare la qualità delle relase successive.md",
-    "Domande Guida Verifica e Validazione/Come possiamo valutare se un prodotto è pronto per essere rilasciato.md",
-    "Domande Guida Verifica e Validazione/Quali tecniche applicare.md",
-    "Domande Guida Verifica e Validazione/Quando iniziare verifica e convalida e quando sono complete.md",
-    "Componenti UML/Generalizzazione.md",
-    "Componenti UML/Molteplicità.md",
     "Testing",
     "Images/Pasted image 20231130182012.png",
     "Images/Pasted image 20231127155938.png",
